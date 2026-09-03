@@ -187,6 +187,48 @@ export const INDUSTRIES = [
     desc: 'Personal and professional branding for CAs, Doctors, Lawyers, Coaches, and Consultants who want to stand out.',
     stat: '↑ inquiries & pricing power',
   },
+  {
+    num: '04',
+    tag: 'HEALTHCARE',
+    name: 'Healthcare & Wellness',
+    desc: 'Hospitals, clinics, and wellness brands where trust is the product. Branding that makes patients choose you before they meet you.',
+    stat: '↑ patient trust & referrals',
+  },
+  {
+    num: '05',
+    tag: 'EDUCATION',
+    name: 'Education & EdTech',
+    desc: 'Schools, coaching institutes, and edtech platforms. A brand parents trust and students remember, across every campus and screen.',
+    stat: '↑ admissions & enrollments',
+  },
+  {
+    num: '06',
+    tag: 'HOSPITALITY / F&B',
+    name: 'Hospitality & F&B',
+    desc: 'Restaurants, cafés, and hotels built around rituals and recall. Branding that turns first-time walk-ins into weekly regulars.',
+    stat: '↑ repeat visits & recall',
+  },
+  {
+    num: '07',
+    tag: 'TECH / SAAS',
+    name: 'Technology & SaaS',
+    desc: 'Startups and software products in crowded categories. Positioning and identity that make complex products instantly understood.',
+    stat: '↑ demos & conversion',
+  },
+  {
+    num: '08',
+    tag: 'FINANCE',
+    name: 'Finance & Fintech',
+    desc: 'Wealth managers, NBFCs, and fintechs where credibility decides. A brand that signals safety, scale, and sophistication.',
+    stat: '↑ credibility & AUM growth',
+  },
+  {
+    num: '09',
+    tag: 'MANUFACTURING / B2B',
+    name: 'Manufacturing & B2B',
+    desc: 'Industrial and B2B companies that win on capability but lose on perception. Branding that matches the quality of your engineering.',
+    stat: '↑ enterprise deal wins',
+  },
 ];
 
 export const PRISM = [
@@ -241,37 +283,37 @@ export const COMPARISON_ROWS: { feature: string; brandops: 'yes' | 'partial' | '
 export const TESTIMONIALS = [
   {
     quote:
-      'Ankit was the first to bring art to the science of our Global Learning work. His brandbooks, animation, and GenAI-driven videos made our learning assets recognizable and scalable.',
+      'BrandOps was the first to bring art to the science of our Global Learning work. Their brandbooks, animation, and GenAI-driven videos made our learning assets recognizable and scalable.',
     name: 'Vigla Clarke-Allison',
     role: 'Vice President, Global L&D, United States',
   },
   {
     quote:
-      'Ankit combines creative design, learning technology, and AI to lead award-winning global programs recognized with multiple Brandon Hall Excellence Awards.',
+      'BrandOps combines creative design, learning technology, and AI to lead award-winning global programs recognized with multiple Brandon Hall Excellence Awards.',
     name: 'Denise Keller',
     role: 'Learning Experience Manager, United States',
   },
   {
     quote:
-      'Ankit brings a rare blend of brand strategy and creative excellence, consistently translating complex technical concepts into clear, compelling global brand narratives.',
+      'BrandOps brings a rare blend of brand strategy and creative excellence, consistently translating complex technical concepts into clear, compelling global brand narratives.',
     name: 'Amr Mostafa',
     role: 'Data Science Consultant, Dubai',
   },
   {
     quote:
-      'A consistently reliable and creative partner, delivering high-quality work across video, eLearning, and brand design. His responsiveness and collaborative approach made him a pleasure to work with.',
+      'BrandOps has been a consistently reliable and creative partner, delivering high-quality work across video, eLearning, and brand design. Their responsiveness and collaborative approach made them a pleasure to work with.',
     name: 'Corey Klein',
     role: 'Training Programs & Communications Manager, US',
   },
   {
     quote:
-      'One of the most useful assets he developed was the BrandBook, helping the team create a global, recognized look and feel and a strong brand.',
+      'One of the most useful assets BrandOps developed was the BrandBook, helping the team create a global, recognized look and feel and a strong brand.',
     name: 'Daniela González Saucedo',
     role: 'HRBP, Mexico',
   },
   {
     quote:
-      'His passion for creating is seen through his work. He brings great energy to the team, it was a pleasure working with him at Colgate-Palmolive.',
+      "BrandOps' passion for creating is seen through their work. They bring great energy to every team, it was a pleasure working with them at Colgate-Palmolive.",
     name: 'Priya Patti',
     role: 'Teaching Assistant, US',
   },

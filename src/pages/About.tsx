@@ -89,9 +89,6 @@ export default function About() {
                         className="h-full w-full object-cover object-top"
                       />
                       <div className="absolute inset-0 bg-gradient-to-t from-ink via-ink/20 to-transparent" />
-                      <span className="absolute left-4 top-4 rounded-full border border-white/25 bg-ink/60 px-3 py-1 font-mono text-[9px] tracking-[0.2em] text-white backdrop-blur">
-                        FOUNDER.PROFILE <span className="text-gold-soft">v1.0</span>
-                      </span>
                     </div>
                     <div className="relative -mt-14 p-5">
                       <h3 className="font-heading text-xl font-semibold tracking-tight">{f.name}</h3>
@@ -120,18 +117,10 @@ export default function About() {
               </Reveal>
               <Reveal delay={0.08}>
                 <p className="mt-5 max-w-xl font-body text-base leading-relaxed text-muted sm:text-lg">
-                  After building brands for Fortune 500 companies, Ankit realized small businesses
-                  and professionals deserved the same strategic approach, without the agency
-                  markup. TheBrandOps was born to make world-class branding accessible to
-                  businesses across India.
-                </p>
-              </Reveal>
-              <Reveal delay={0.12}>
-                <p className="mt-4 max-w-xl font-body text-base leading-relaxed text-muted sm:text-lg">
-                  After building brands for Fortune 500 companies, Deepali realized small
-                  businesses and professionals deserved the same strategic approach, without the
-                  agency markup. TheBrandOps was born to make world-class branding accessible to
-                  businesses across India.
+                  After building brands for Fortune 500 companies, Ankit and Deepali realized
+                  small businesses and professionals deserved the same strategic approach, without
+                  the agency markup. TheBrandOps was born to make world-class branding accessible
+                  to businesses across India.
                 </p>
               </Reveal>
 
