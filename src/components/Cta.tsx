@@ -36,7 +36,7 @@ export default function Cta() {
             Let's build something <span className="text-gold-soft">great.</span>
           </h2>
           <p className="mx-auto mt-5 max-w-xl font-body text-base text-muted-dark sm:text-lg">
-            Ready to start your next project? A quick 15-minute call — pick a time that works for
+            Ready to start your next project? A quick 15-minute call, pick a time that works for
             you, and leave with an honest read on your brand either way.
           </p>
         </Reveal>

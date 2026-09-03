@@ -214,5 +214,5 @@ export function Mark({ v, hero = false }: { v: 'yes' | 'partial' | 'no'; hero?: 
     );
   if (v === 'partial')
     return <span className="font-mono text-[11px] tracking-wide text-muted">partial</span>;
-  return <span className="font-mono text-sm text-muted/50">—</span>;
+  return <span className="font-mono text-sm text-muted/50">&#10005;</span>;
 }

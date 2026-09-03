@@ -7,12 +7,12 @@ import { PageHero, Reveal, Corners, SectionTag } from '../components/ui';
 const INFO = [
   { icon: Phone, label: 'PHONE', value: CONTACT.phone, href: CONTACT.phoneHref },
   { icon: Mail, label: 'EMAIL', value: CONTACT.email, href: `mailto:${CONTACT.email}` },
-  { icon: MapPin, label: 'STUDIO', value: 'Sector 29, Vashi, Navi Mumbai — 400703, India', href: undefined },
+  { icon: MapPin, label: 'STUDIO', value: 'Sector 29, Vashi, Navi Mumbai, 400703, India', href: undefined },
   { icon: Clock, label: 'RESPONSE TIME', value: 'Within one business day', href: undefined },
 ];
 
 export default function Contact() {
-  const [form, setForm] = useState({ name: '', business: '', service: 'Brand Growth Packages', message: '' });
+  const [form, setForm] = useState({ name: '', business: '', service: 'Branding: Brand Strategy', message: '' });
   const [sent, setSent] = useState(false);
 
   const onSubmit = (e: FormEvent) => {
@@ -25,7 +25,7 @@ export default function Contact() {
       form.message,
     ].join('\n');
     window.location.href = `mailto:${CONTACT.email}?subject=${encodeURIComponent(
-      `Project inquiry — ${form.business || form.name}`
+      `Project inquiry, ${form.business || form.name}`
     )}&body=${encodeURIComponent(body)}`;
     setSent(true);
   };
@@ -39,7 +39,7 @@ export default function Contact() {
             Let's build something <span className="text-blue">great.</span>
           </>
         }
-        intro="Ready to start your next project? A quick 15-minute call — pick a time that works for you, and leave with an honest read on your brand either way."
+        intro="Ready to start your next project? A quick 15-minute call, pick a time that works for you, and leave with an honest read on your brand either way."
       >
         <p className="mt-6 inline-flex items-center gap-2 rounded-full border border-line bg-white/80 px-4 py-1.5 font-mono text-[11px] tracking-[0.15em] text-blue-deep backdrop-blur">
           <span className="relative flex h-2 w-2">
@@ -93,7 +93,7 @@ export default function Contact() {
                       Pick a time that works for you.
                     </p>
                     <p className="mt-2 font-body text-sm leading-relaxed text-muted-dark">
-                      We'll audit how your brand looks against your competitors — you keep the
+                      We'll audit how your brand looks against your competitors, you keep the
                       findings either way.
                     </p>
                     <a
@@ -150,13 +150,16 @@ export default function Contact() {
                     className="mt-2 w-full rounded-lg border border-line bg-mist px-4 py-3 font-body text-sm text-ink outline-none transition-colors focus:border-blue focus:bg-white"
                   >
                     {[
-                      'Starter Services',
-                      'Visibility Services',
-                      'Brand Growth Packages',
-                      'Ecommerce Branding',
-                      'Personal Branding',
-                      'Specialized Services',
-                      'Not sure yet — diagnose me',
+                      'Branding: Research & Discovery',
+                      'Branding: Brand Strategy',
+                      'Branding: Verbal Identity',
+                      'Branding: Visual Identity',
+                      'Branding: Experience & Environment',
+                      'Branding: Campaign & Content Systems',
+                      'Branding: Marketing Systems & GTM',
+                      'Branding: Brand Governance',
+                      'Communication: Event & Corporate Campaign',
+                      'Not sure yet, diagnose me',
                     ].map((o) => (
                       <option key={o}>{o}</option>
                     ))}
@@ -185,12 +188,12 @@ export default function Contact() {
 
                 {sent && (
                   <p className="mt-4 font-mono text-[11px] tracking-wide text-gold">
-                    ✓ YOUR EMAIL CLIENT SHOULD OPEN WITH THE BRIEF PRE-FILLED. SEND IT — WE REPLY WITHIN A BUSINESS DAY.
+                    ✓ YOUR EMAIL CLIENT SHOULD OPEN WITH THE BRIEF PRE-FILLED. SEND IT, WE REPLY WITHIN A BUSINESS DAY.
                   </p>
                 )}
 
                 <p className="mt-5 font-mono text-[10px] leading-relaxed tracking-wide text-muted">
-                  SUBMITTING OPENS YOUR EMAIL CLIENT — NOTHING IS STORED ON THIS SITE.
+                  SUBMITTING OPENS YOUR EMAIL CLIENT, NOTHING IS STORED ON THIS SITE.
                 </p>
               </form>
             </Reveal>

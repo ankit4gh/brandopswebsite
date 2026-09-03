@@ -5,17 +5,17 @@ const SECTIONS = [
   {
     num: '01',
     title: 'Who we are',
-    body: `TheBrandOps ("we", "us") is a Brand Strategy & Identity Design studio operated from Sector 29, Vashi, Navi Mumbai — 400703, India. This policy explains what information we collect through thebrandops.com and how we use it.`,
+    body: `TheBrandOps ("we", "us") is a Brand Strategy & Identity Design studio operated from Sector 29, Vashi, Navi Mumbai, 400703, India. This policy explains what information we collect through thebrandops.com and how we use it.`,
   },
   {
     num: '02',
     title: 'Information we collect',
-    body: `We collect only the information you choose to share with us: your name, business name, email address, phone number, and project details — typically when you email us, call us, or use the contact form on this site (which opens your own email client; nothing is stored on our servers). We do not collect payment information through this website.`,
+    body: `We collect only the information you choose to share with us: your name, business name, email address, phone number, and project details, typically when you email us, call us, or use the contact form on this site (which opens your own email client; nothing is stored on our servers). We do not collect payment information through this website.`,
   },
   {
     num: '03',
     title: 'How we use your information',
-    body: `We use the information you share to respond to inquiries, prepare proposals, deliver projects, and — only if you ask us to — keep you informed about our work. We never sell, rent, or trade your personal information to third parties.`,
+    body: `We use the information you share to respond to inquiries, prepare proposals, deliver projects, and, only if you ask us to, keep you informed about our work. We never sell, rent, or trade your personal information to third parties.`,
   },
   {
     num: '04',

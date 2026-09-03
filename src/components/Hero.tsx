@@ -78,7 +78,7 @@ export default function Hero() {
           custom={2}
           className="mx-auto mt-6 max-w-2xl text-center font-body text-base leading-relaxed text-muted sm:text-lg"
         >
-          Strategic branding that makes customers choose you over your competitor — not because
+          Strategic branding that makes customers choose you over your competitor, not because
           you're cheaper, but because you <em className="font-semibold not-italic text-ink">look</em>{' '}
           like the best. Identity, websites, and marketing systems. One partner, built in.
         </motion.p>

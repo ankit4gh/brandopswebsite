@@ -1,9 +1,9 @@
 import { SectionTag, Reveal, Corners } from './ui';
 
 const STATS = [
-  { value: '3 sec', label: 'Time your audience takes to decide whether to trust you — or scroll past.' },
+  { value: '3 sec', label: 'Time your audience takes to decide whether to trust you, or scroll past.' },
   { value: '100+', label: 'Premium designs shipped across industries, from startups to Fortune 500.' },
-  { value: '1', label: 'Partner. Logo, website, social, print, video — you don’t need 5 vendors.' },
+  { value: '1', label: 'Partner. Logo, website, social, print, video, you don’t need 5 vendors.' },
 ];
 
 export default function Problem() {
@@ -45,7 +45,7 @@ export default function Problem() {
             {STATS.map((s, i) => (
               <Reveal key={s.value} delay={0.08 * i}>
                 <div className="flex items-baseline gap-6 py-6">
-                  <span className="w-28 shrink-0 font-heading text-4xl font-semibold tracking-tight text-blue sm:text-5xl">
+                  <span className="w-32 shrink-0 whitespace-nowrap font-heading text-4xl font-semibold tracking-tight text-blue sm:text-5xl">
                     {s.value}
                   </span>
                   <p className="font-body text-sm leading-relaxed text-muted">{s.label}</p>

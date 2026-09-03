@@ -94,7 +94,7 @@ export default function CaseStudy() {
         </div>
       </section>
 
-      {/* editable content blocks — defined in /public/content/case-studies.json */}
+      {/* editable content blocks, defined in /public/content/case-studies.json */}
       {cs.sections.map((block, i) => (
         <BlockRenderer key={i} block={block} study={cs} />
       ))}
@@ -131,7 +131,7 @@ export default function CaseStudy() {
                   Want results like these?
                 </p>
                 <p className="mt-2 font-body text-sm leading-relaxed text-muted-dark">
-                  Book a free 15-minute brand diagnostic — we'll audit how your brand looks against
+                  Book a free 15-minute brand diagnostic, we'll audit how your brand looks against
                   your competitors, and you keep the findings either way.
                 </p>
                 <div className="mt-6">

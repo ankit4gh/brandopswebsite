@@ -57,9 +57,9 @@ export default function WhyUs() {
                 Applies trends. Ships logos. Every brand ends up looking the same.
               </p>
               <ul className="mt-5 space-y-2 font-mono text-xs text-muted">
-                <li>— Design first, strategy never</li>
-                <li>— Five vendors, five versions of your brand</li>
-                <li>— Deliverables, not outcomes</li>
+                <li>&#10005; Design first, strategy never</li>
+                <li>&#10005; Five vendors, five versions of your brand</li>
+                <li>&#10005; Deliverables, not outcomes</li>
               </ul>
             </div>
           </Reveal>

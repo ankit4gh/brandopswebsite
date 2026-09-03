@@ -16,7 +16,7 @@ export default function Work() {
             <span className="text-blue">not just the pixels.</span>
           </>
         }
-        intro="Every engagement runs on the PRISM Method — and every case study below reports the same way: the challenge, the build, and the results. No mood boards without metrics."
+        intro="Every engagement runs on the PRISM Method, and every case study below reports the same way: the challenge, the build, and the results. No mood boards without metrics."
       >
         <p className="mt-6 font-mono text-[11px] tracking-[0.16em] text-muted">
           {studies ? studies.length : '…'} CASE STUDIES · 4 INDUSTRIES · ONE METHOD

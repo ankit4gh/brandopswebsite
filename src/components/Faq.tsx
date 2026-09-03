@@ -19,7 +19,7 @@ export default function Faq() {
                 We've got answers.
               </h2>
               <p className="mt-4 font-body text-base text-muted">
-                Still have questions? Let's talk — quick 15-minute call, pick a time that works
+                Still have questions? Let's talk, quick 15-minute call, pick a time that works
                 for you.
               </p>
               <a

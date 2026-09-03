@@ -9,7 +9,7 @@ import { useEffect, useState } from 'react';
 
    • To add pictures: drop image files into  public/uploads/  (or
      public/work/<project>/) and reference them as "/uploads/photo.jpg".
-   • To edit content: change text in the JSON — no code changes needed.
+   • To edit content: change text in the JSON, no code changes needed.
    • To customize sections per project: reorder / add / remove blocks in
      a study's "sections" array. Every block type below is optional and
      repeatable, so each case study can have its own structure.
@@ -30,13 +30,13 @@ export type Block =
   | { type: 'text'; kicker?: string; title?: string; paragraphs?: string[]; theme?: BlockTheme }
   /* bulleted section with optional intro/outro copy */
   | { type: 'list'; kicker?: string; title?: string; intro?: string; items: string[]; outro?: string; theme?: BlockTheme }
-  /* gold highlight callout — e.g. "The challenge in one line" */
+  /* gold highlight callout, e.g. "The challenge in one line" */
   | { type: 'highlight'; label?: string; text: string }
   /* single full-width image */
   | { type: 'image'; src: string; alt?: string; caption?: string }
-  /* picture gallery with lightbox — add as many images as you like */
+  /* picture gallery with lightbox, add as many images as you like */
   | { type: 'gallery'; kicker?: string; title?: string; intro?: string; columns?: 2 | 3; images: GalleryImage[] }
-  /* card grid — e.g. communication pillars */
+  /* card grid, e.g. communication pillars */
   | { type: 'pillars'; kicker?: string; title?: string; intro?: string; items: { title: string; desc: string }[]; theme?: BlockTheme }
   /* numbered process steps (renders on dark) */
   | { type: 'steps'; kicker?: string; title?: string; items: { phase?: string; title: string; desc: string }[] }
@@ -46,7 +46,7 @@ export type Block =
   | { type: 'stats'; kicker?: string; title?: string; items: { value: string; label: string }[] }
   /* client quote */
   | { type: 'quote'; text: string; name: string; role?: string }
-  /* tag chips — e.g. deliverables shipped */
+  /* tag chips, e.g. deliverables shipped */
   | { type: 'chips'; kicker?: string; title?: string; items: string[] }
   /* credits table */
   | { type: 'credits'; rows: { label: string; value: string }[] };

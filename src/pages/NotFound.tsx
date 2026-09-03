@@ -19,7 +19,7 @@ export default function NotFound() {
           This page lost its <span className="text-sky">positioning.</span>
         </h1>
         <p className="mt-4 font-body text-base text-muted-dark">
-          The page you're looking for doesn't exist — but your brand's next chapter might.
+          The page you're looking for doesn't exist, but your brand's next chapter might.
         </p>
         <Link
           to="/"

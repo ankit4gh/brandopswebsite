@@ -24,7 +24,7 @@ export default function Method() {
             <span className="text-muted-dark">Five primitives, one brand.</span>
           </h2>
           <p className="mt-4 max-w-xl font-body text-base text-muted-dark">
-            Position, research, design, systemize — then a fifth step that makes the previous four
+            Position, research, design, systemize, then a fifth step that makes the previous four
             worth the effort.
           </p>
         </Reveal>
@@ -107,7 +107,7 @@ export default function Method() {
           <div className="mt-12 flex flex-col items-start justify-between gap-6 rounded-xl border border-line-dark bg-gradient-to-r from-blue-deep/60 to-ink-2 p-7 sm:flex-row sm:items-center sm:p-8">
             <div>
               <p className="font-heading text-xl font-semibold tracking-tight sm:text-2xl">
-                Your audience decides in 3 seconds whether to trust you — or scroll past.
+                Your audience decides in 3 seconds whether to trust you, or scroll past.
               </p>
               <p className="mt-2 font-body text-sm text-muted-dark">
                 PRISM builds brands for professionals, coaches, and thought leaders who want to stand out.

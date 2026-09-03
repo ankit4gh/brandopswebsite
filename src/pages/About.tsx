@@ -8,12 +8,12 @@ const PRINCIPLES = [
   {
     num: '01',
     title: 'Strategy before pixels',
-    desc: "Design without positioning is decoration. Every engagement starts with who you are and where you win — the visuals follow.",
+    desc: "Design without positioning is decoration. Every engagement starts with who you are and where you win, the visuals follow.",
   },
   {
     num: '02',
     title: 'One partner, every capability',
-    desc: "Logo, website, social, print, video — built as one system by one team. No version drift across five vendors.",
+    desc: "Logo, website, social, print, video, built as one system by one team. No version drift across five vendors.",
   },
   {
     num: '03',
@@ -23,15 +23,32 @@ const PRINCIPLES = [
   {
     num: '04',
     title: 'Fortune 500 craft, honest pricing',
-    desc: 'The same strategic rigor used inside global companies — with transparent starting prices instead of agency markups.',
+    desc: 'The same strategic rigor used inside global companies, with transparent starting prices instead of agency markups.',
+  },
+];
+
+const FOUNDERS = [
+  {
+    name: 'Ankit Shah',
+    role: 'Founder',
+    title: 'FOUNDER · BRAND STRATEGIST',
+    photo: '/founders/ankit-shah.jpg',
+    facts: ['ex–Fortune 500 brand builder', 'Brandon Hall Excellence Awards', 'based in Navi Mumbai, India'],
+  },
+  {
+    name: 'Deepali Shah',
+    role: 'Founder',
+    title: 'FOUNDER · BRAND STRATEGIST',
+    photo: '/founders/deepali-shah.jpg',
+    facts: ['ex–Fortune 500 brand builder', 'Brandon Hall Excellence Awards', 'based in Navi Mumbai, India'],
   },
 ];
 
 const MILESTONES = [
-  { year: 'FORTUNE 500', text: 'Built global brand systems for learning & development inside Fortune 500 companies — across 40+ countries.' },
+  { year: 'FORTUNE 500', text: 'Built global brand systems for learning & development inside Fortune 500 companies, across 40+ countries.' },
   { year: '4× AWARDS', text: 'Programs carrying those brand systems won multiple Brandon Hall Excellence Awards.' },
-  { year: 'THE REALIZATION', text: 'Small businesses and professionals deserved the same strategic approach — without the agency markup.' },
-  { year: 'THEBRANDOPS', text: 'A studio in Navi Mumbai making world-class branding accessible to businesses across India — powered by the PRISM Method.' },
+  { year: 'THE REALIZATION', text: 'Small businesses and professionals deserved the same strategic approach, without the agency markup.' },
+  { year: 'THEBRANDOPS', text: 'A studio in Navi Mumbai making world-class branding accessible to businesses across India, powered by the PRISM Method.' },
 ];
 
 export default function About() {
@@ -45,7 +62,7 @@ export default function About() {
             <span className="text-blue">Brands with impact.</span>
           </>
         }
-        intro="TheBrandOps is a Brand Strategy & Identity Design studio in Navi Mumbai. We help businesses build clear, premium brands that drive growth through strategy, design, and execution — identities, websites, and marketing systems that scale."
+        intro="TheBrandOps is a Brand Strategy & Identity Design studio in Navi Mumbai. We help businesses build clear, premium brands that drive growth through strategy, design, and execution, identities, websites, and marketing systems that scale."
       >
         <div className="mt-8 flex flex-col gap-3 sm:flex-row">
           <PrimaryButton href={CONTACT.bookHref}>Talk to us</PrimaryButton>
@@ -58,31 +75,41 @@ export default function About() {
         <div className="mx-auto max-w-6xl px-5 py-16 sm:px-8 sm:py-24">
           <SectionTag label="THE STORY" index={1} total={4} />
 
-          <div className="mt-12 grid items-start gap-10 lg:grid-cols-[380px_1fr] lg:gap-16">
-            <Reveal>
-              <div className="relative mx-auto w-full max-w-sm rounded-xl border border-line bg-ink p-8 text-white">
-                <Corners dark />
-                <div className="bg-dots-dark absolute inset-0 rounded-xl" aria-hidden />
-                <div className="relative">
-                  <div className="flex items-center justify-between font-mono text-[10px] tracking-[0.2em] text-muted-dark">
-                    <span>FOUNDER.PROFILE</span>
-                    <span className="text-sky">v1.0</span>
+          <div className="mt-12 grid items-start gap-10 lg:grid-cols-[1fr_1.1fr] lg:gap-16">
+            {/* founders */}
+            <div className="grid gap-6 sm:grid-cols-2 lg:grid-cols-1 xl:grid-cols-2">
+              {FOUNDERS.map((f, i) => (
+                <Reveal key={f.name} delay={0.06 * i} className="h-full">
+                  <div className="relative flex h-full flex-col overflow-hidden rounded-xl border border-line bg-ink text-white">
+                    <Corners dark />
+                    <div className="relative aspect-[4/5] overflow-hidden">
+                      <img
+                        src={f.photo}
+                        alt={`${f.name}, ${f.role}`}
+                        className="h-full w-full object-cover object-top"
+                      />
+                      <div className="absolute inset-0 bg-gradient-to-t from-ink via-ink/20 to-transparent" />
+                      <span className="absolute left-4 top-4 rounded-full border border-white/25 bg-ink/60 px-3 py-1 font-mono text-[9px] tracking-[0.2em] text-white backdrop-blur">
+                        FOUNDER.PROFILE <span className="text-gold-soft">v1.0</span>
+                      </span>
+                    </div>
+                    <div className="relative -mt-14 p-5">
+                      <h3 className="font-heading text-xl font-semibold tracking-tight">{f.name}</h3>
+                      <p className="mt-1 font-mono text-[10px] tracking-[0.15em] text-gold-soft">
+                        {f.title}
+                      </p>
+                      <div className="mt-4 space-y-1.5 border-t border-line-dark pt-4 font-mono text-[10px] text-muted-dark">
+                        {f.facts.map((fact) => (
+                          <p key={fact}>
+                            <span className="text-sky">&gt;</span> {fact}
+                          </p>
+                        ))}
+                      </div>
+                    </div>
                   </div>
-                  <div className="mt-8 flex h-32 w-32 items-center justify-center rounded-xl bg-blue font-heading text-5xl font-bold shadow-[0_0_50px_-10px_rgba(27,42,74,0.8)]">
-                    AS
-                  </div>
-                  <h3 className="mt-8 font-heading text-2xl font-semibold tracking-tight">Ankit Shah</h3>
-                  <p className="mt-1 font-mono text-[11px] tracking-[0.15em] text-sky">
-                    FOUNDER · BRAND STRATEGIST
-                  </p>
-                  <div className="mt-6 space-y-1.5 border-t border-line-dark pt-5 font-mono text-[11px] text-muted-dark">
-                    <p><span className="text-sky">&gt;</span> ex–Fortune 500 brand builder</p>
-                    <p><span className="text-sky">&gt;</span> Brandon Hall Excellence Awards</p>
-                    <p><span className="text-sky">&gt;</span> based in Navi Mumbai, India</p>
-                  </div>
-                </div>
-              </div>
-            </Reveal>
+                </Reveal>
+              ))}
+            </div>
 
             <div>
               <Reveal>
@@ -94,8 +121,16 @@ export default function About() {
               <Reveal delay={0.08}>
                 <p className="mt-5 max-w-xl font-body text-base leading-relaxed text-muted sm:text-lg">
                   After building brands for Fortune 500 companies, Ankit realized small businesses
-                  and professionals deserved the same strategic approach — without the agency
+                  and professionals deserved the same strategic approach, without the agency
                   markup. TheBrandOps was born to make world-class branding accessible to
+                  businesses across India.
+                </p>
+              </Reveal>
+              <Reveal delay={0.12}>
+                <p className="mt-4 max-w-xl font-body text-base leading-relaxed text-muted sm:text-lg">
+                  After building brands for Fortune 500 companies, Deepali realized small
+                  businesses and professionals deserved the same strategic approach, without the
+                  agency markup. TheBrandOps was born to make world-class branding accessible to
                   businesses across India.
                 </p>
               </Reveal>

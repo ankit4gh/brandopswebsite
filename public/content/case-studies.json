@@ -3,7 +3,7 @@
     "════════════════════════════════════════════════════════════════",
     "THIS FILE IS YOUR CASE STUDY EDITOR. No code changes needed.",
     "1. ADD PICTURES: drop image files into public/uploads/ (or public/work/<project>/) and reference them as '/uploads/my-photo.jpg' in any 'image' or 'gallery' block. Galleries hold unlimited images.",
-    "2. EDIT CONTENT: change any text below. Each case study is a 'sections' array of blocks that you can reorder, add, or remove — so every project can have its own structure.",
+    "2. EDIT CONTENT: change any text below. Each case study is a 'sections' array of blocks that you can reorder, add, or remove, so every project can have its own structure.",
     "3. BLOCK TYPES: overview · text · list · highlight (gold callout) · image · gallery (with lightbox) · pillars · steps (dark) · system · stats · quote · chips · credits.",
     "4. ADD A NEW CASE STUDY: copy any study object, give it a unique 'slug', and it appears automatically on /work and the homepage.",
     "════════════════════════════════════════════════════════════════"
@@ -15,8 +15,8 @@
       "tag": "CORPORATE / L&D",
       "industry": "Fortune 500 · Global Learning",
       "title": "One brand system for learning across 40+ countries.",
-      "summary": "A Fortune 500 consumer goods giant had world-class learning content — and forty different versions of what it looked like. We built the BrandBook, motion system, and GenAI video pipeline that made every learning asset instantly recognizable, in every market.",
-      "client": "Fortune 500 CPG Leader — Global L&D",
+      "summary": "A Fortune 500 consumer goods giant had world-class learning content, and forty different versions of what it looked like. We built the BrandBook, motion system, and GenAI video pipeline that made every learning asset instantly recognizable, in every market.",
+      "client": "Fortune 500 CPG Leader, Global L&D",
       "studio": "TheBrandOps",
       "year": "2021–2024",
       "timeline": "3-year engagement",
@@ -34,8 +34,8 @@
           "kicker": "Background & Context",
           "title": "Great content was everywhere. The brand was nowhere.",
           "paragraphs": [
-            "The Global Learning & Development team was shipping hundreds of programs a year — eLearning modules, explainer videos, leadership toolkits, live workshops — across more than forty countries. The content was genuinely excellent: research-backed, award-worthy, built by people who cared.",
-            "But every region, vendor, and internal team designed to its own taste. A program launched from New York looked nothing like its rollout in São Paulo, which looked nothing like the version localized in Warsaw. Learners couldn't tell official global programs from local one-offs — and leadership couldn't point at any asset and say 'that's ours.'",
+            "The Global Learning & Development team was shipping hundreds of programs a year, eLearning modules, explainer videos, leadership toolkits, live workshops, across more than forty countries. The content was genuinely excellent: research-backed, award-worthy, built by people who cared.",
+            "But every region, vendor, and internal team designed to its own taste. A program launched from New York looked nothing like its rollout in São Paulo, which looked nothing like the version localized in Warsaw. Learners couldn't tell official global programs from local one-offs, and leadership couldn't point at any asset and say 'that's ours.'",
             "TheBrandOps was brought in to change that: to give a global learning organization one recognizable face, and a way to keep it consistent without becoming a design bottleneck."
           ]
         },
@@ -44,7 +44,7 @@
           "kicker": "What leadership needed",
           "title": "Four non-negotiables, straight from the VP's desk.",
           "items": [
-            "Learning assets that look like one organization — in every market, from every vendor",
+            "Learning assets that look like one organization, in every market, from every vendor",
             "A system regional teams could apply without design approval queues",
             "Production speed that keeps up with the business, not the other way around",
             "A brand strong enough to compete for attention inside busy employees' days"
@@ -55,14 +55,14 @@
           "kicker": "The Challenge",
           "title": "Recognition can't be memoed into existence.",
           "paragraphs": [
-            "The obvious answer — a PDF style guide and a stern email — had already been tried. Twice. Style guides don't survive contact with forty markets, hundreds of contributors, and vendors on four continents.",
-            "The problem wasn't discipline. It was that the brand had never been designed as a system: something with parts people could pick up, snap together, and ship with — faster than designing from scratch."
+            "The obvious answer, a PDF style guide and a stern email, had already been tried. Twice. Style guides don't survive contact with forty markets, hundreds of contributors, and vendors on four continents.",
+            "The problem wasn't discipline. It was that the brand had never been designed as a system: something with parts people could pick up, snap together, and ship with, faster than designing from scratch."
           ]
         },
         {
           "type": "highlight",
           "label": "The challenge in one line",
-          "text": "How does a global team make hundreds of learning assets, made by many hands in many markets, look and feel like one brand — without slowing anyone down?"
+          "text": "How does a global team make hundreds of learning assets, made by many hands in many markets, look and feel like one brand, without slowing anyone down?"
         },
         {
           "type": "text",
@@ -71,7 +71,7 @@
           "paragraphs": [
             "A style guide tells people what they can't do. An operating system gives them things to build with. We treated the learning brand as infrastructure: every rule shipped with a ready-made asset that made following it the fastest option.",
             "The strategic insight: adoption follows convenience. If the on-brand way is also the easy way, consistency stops being a compliance problem and becomes a default behavior.",
-            "This became the test for everything we made — 'is this faster than doing it off-brand?' If not, it went back to the studio."
+            "This became the test for everything we made, 'is this faster than doing it off-brand?' If not, it went back to the studio."
           ]
         },
         {
@@ -80,10 +80,10 @@
           "title": "Four pillars anchored every asset.",
           "intro": "Long-term communication pillars gave hundreds of contributors a shared answer to 'what should this feel like?'",
           "items": [
-            { "title": "Art to the Science", "desc": "Learning is rigorous; the brand makes it beautiful. Every asset pairs instructional soundness with visual craft — never one without the other." },
+            { "title": "Art to the Science", "desc": "Learning is rigorous; the brand makes it beautiful. Every asset pairs instructional soundness with visual craft, never one without the other." },
             { "title": "One Global Voice", "desc": "Confident, human, jargon-free. A tone litmus test shipped with the BrandBook: can a learner in any market understand it on first read?" },
-            { "title": "Motion First", "desc": "Learning competes with everything else on an employee's screen. Motion — intros, transitions, kinetic type — earns the first five seconds." },
-            { "title": "Scale Without Sameness", "desc": "Templates flex by region and program tier, so assets feel local in language and global in identity — never photocopied." }
+            { "title": "Motion First", "desc": "Learning competes with everything else on an employee's screen. Motion, intros, transitions, kinetic type, earns the first five seconds." },
+            { "title": "Scale Without Sameness", "desc": "Templates flex by region and program tier, so assets feel local in language and global in identity, never photocopied." }
           ]
         },
         {
@@ -92,9 +92,9 @@
           "title": "From audit to operating system.",
           "items": [
             { "phase": "Research", "title": "Audit 300+ assets across regions.", "desc": "We collected three years of learning assets from every region and mapped the drift: 14 unofficial logo variants, 30+ color interpretations, no shared typography. The audit became the business case leadership presented internally." },
-            { "phase": "Identity", "title": "Design the BrandBook.", "desc": "A complete visual language — lockups, color, typography, iconography, data-viz, photography and illustration codes — documented as a living BrandBook with do/don't examples pulled from the audit itself." },
+            { "phase": "Identity", "title": "Design the BrandBook.", "desc": "A complete visual language, lockups, color, typography, iconography, data-viz, photography and illustration codes, documented as a living BrandBook with do/don't examples pulled from the audit itself." },
             { "phase": "Systems", "title": "Ship templates, not rules.", "desc": "Slide systems, eLearning skins, video intro/outro packages, motion graphics kits, and program launch toolkits. Every rule in the BrandBook shipped with a matching asset a team could use in minutes." },
-            { "phase": "Momentum", "title": "Build the GenAI video pipeline.", "desc": "An AI-assisted pipeline turned approved scripts into on-brand animated explainers in days instead of months — with brand elements baked into the pipeline so speed never cost consistency." }
+            { "phase": "Momentum", "title": "Build the GenAI video pipeline.", "desc": "An AI-assisted pipeline turned approved scripts into on-brand animated explainers in days instead of months, with brand elements baked into the pipeline so speed never cost consistency." }
           ]
         },
         {
@@ -104,23 +104,23 @@
           "intro": "Every element was designed to be picked up by non-designers and still come out right.",
           "items": [
             { "name": "Logo & Lockup System", "desc": "A master mark with program-tier lockups, so flagship academies, regional rollouts, and micro-learnings each signal their level while staying visibly one family." },
-            { "name": "Colour Architecture", "desc": "A disciplined core palette with regional accent ranges — enough room for local energy, tight enough that every asset reads as the same brand at a glance." },
-            { "name": "Typography", "desc": "A licensed global type pairing with a fallback stack for every OS and authoring tool the company used — because a font that isn't installed is a brand rule that gets broken." },
-            { "name": "Iconography & Data-Viz", "desc": "A 200+ icon library and chart styles built for learning content: progress, assessment, skill maps, and journeys — the visuals L&D actually needs weekly." },
+            { "name": "Colour Architecture", "desc": "A disciplined core palette with regional accent ranges, enough room for local energy, tight enough that every asset reads as the same brand at a glance." },
+            { "name": "Typography", "desc": "A licensed global type pairing with a fallback stack for every OS and authoring tool the company used, because a font that isn't installed is a brand rule that gets broken." },
+            { "name": "Iconography & Data-Viz", "desc": "A 200+ icon library and chart styles built for learning content: progress, assessment, skill maps, and journeys, the visuals L&D actually needs weekly." },
             { "name": "Motion Language", "desc": "Timing curves, transition rules, kinetic type styles, and branded intro/outro packages that made every video recognizably 'ours' in the first two seconds." },
-            { "name": "GenAI Production Pipeline", "desc": "Script-to-video workflow with brand assets embedded at the pipeline level — the fastest production path in the organization was also the most on-brand one." }
+            { "name": "GenAI Production Pipeline", "desc": "Script-to-video workflow with brand assets embedded at the pipeline level, the fastest production path in the organization was also the most on-brand one." }
           ]
         },
         {
           "type": "gallery",
           "kicker": "Design in application",
           "title": "The system in the wild.",
-          "intro": "From workshop walls to edit suites — the same brand, wherever learning happened. Click any image to expand.",
+          "intro": "From workshop walls to edit suites, the same brand, wherever learning happened. Click any image to expand.",
           "columns": 2,
           "images": [
             { "src": "/work/global-learning/gallery-1.jpg", "alt": "Strategy workshop with regional teams", "caption": "Co-creation workshops with regional L&D teams shaped the system's rules" },
-            { "src": "/work/global-learning/gallery-2.jpg", "alt": "Motion graphics production in the edit suite", "caption": "The motion language in production — branded intros, kinetic type, timing curves" },
-            { "src": "/work/global-learning/gallery-4.jpg", "alt": "The BrandBook print edition", "caption": "The BrandBook — a living document, not a shelf PDF" },
+            { "src": "/work/global-learning/gallery-2.jpg", "alt": "Motion graphics production in the edit suite", "caption": "The motion language in production, branded intros, kinetic type, timing curves" },
+            { "src": "/work/global-learning/gallery-4.jpg", "alt": "The BrandBook print edition", "caption": "The BrandBook, a living document, not a shelf PDF" },
             { "src": "/work/global-learning.jpg", "alt": "Program launch presentation", "caption": "A flagship program launch running fully on the template system" }
           ]
         },
@@ -132,14 +132,14 @@
             { "value": "40+", "label": "Countries running on one learning brand system" },
             { "value": "4×", "label": "Brandon Hall Excellence Awards won by branded programs" },
             { "value": "100s", "label": "Of assets shipped from the template system every year" },
-            { "value": "Days", "label": "Not months — GenAI video turnaround per explainer" }
+            { "value": "Days", "label": "Not months, GenAI video turnaround per explainer" }
           ]
         },
         {
           "type": "quote",
           "text": "Ankit was the first to bring art to the science of our Global Learning work. His brandbooks, animation, and GenAI-driven videos made our learning assets recognizable and scalable.",
           "name": "Vigla Clarke-Allison",
-          "role": "Vice President — Global L&D, United States"
+          "role": "Vice President, Global L&D, United States"
         },
         {
           "type": "chips",
@@ -149,9 +149,9 @@
         {
           "type": "credits",
           "rows": [
-            { "label": "Client", "value": "Fortune 500 CPG Leader — Global Learning & Development" },
-            { "label": "Studio", "value": "TheBrandOps — Strategy, Identity, Motion, Template Systems" },
-            { "label": "Lead", "value": "Ankit Shah — Brand Strategy & Creative Direction" },
+            { "label": "Client", "value": "Fortune 500 CPG Leader, Global Learning & Development" },
+            { "label": "Studio", "value": "TheBrandOps, Strategy, Identity, Motion, Template Systems" },
+            { "label": "Lead", "value": "Ankit Shah, Brand Strategy & Creative Direction" },
             { "label": "Recognition", "value": "Multiple Brandon Hall Excellence Awards" }
           ]
         }
@@ -163,8 +163,8 @@
       "tag": "REAL ESTATE",
       "industry": "Real Estate & Construction",
       "title": "Selling flats before the hoarding went up.",
-      "summary": "A mid-size developer with genuinely premium construction was being priced like everyone else — because their brand looked like everyone else. A full PRISM rebrand repositioned the project as the obvious premium choice in its micro-market, before a single hoarding went up.",
-      "client": "Premium Residential Developer — Navi Mumbai",
+      "summary": "A mid-size developer with genuinely premium construction was being priced like everyone else, because their brand looked like everyone else. A full PRISM rebrand repositioned the project as the obvious premium choice in its micro-market, before a single hoarding went up.",
+      "client": "Premium Residential Developer, Navi Mumbai",
       "studio": "TheBrandOps",
       "year": "2025",
       "timeline": "8 weeks",
@@ -184,7 +184,7 @@
           "paragraphs": [
             "The developer's build quality, amenities, and location genuinely beat the competing projects on the same stretch of highway. Buyers who visited the sample flat said so themselves.",
             "But their brochure, site branding, and social presence looked identical to every other launch in the market: the same render-heavy hoardings, the same amenity checklists, the same shouting typography. Channel partners led every conversation with discounts. Buyers negotiated hard, because nothing signaled that this project deserved a premium.",
-            "The flagship residential tower launch was 10 weeks away. The brand had to change before the market formed its first impression — because in real estate, the first impression is the price anchor."
+            "The flagship residential tower launch was 10 weeks away. The brand had to change before the market formed its first impression, because in real estate, the first impression is the price anchor."
           ]
         },
         {
@@ -193,17 +193,17 @@
           "title": "Before defining the brand, we defined the buyer.",
           "intro": "The core buyer for this project:",
           "items": [
-            "Upgrading from a 1–2 BHK within the same micro-market — they know every competing project",
+            "Upgrading from a 1–2 BHK within the same micro-market, they know every competing project",
             "Researches on Instagram and property portals weeks before ever calling a number",
             "Buys on trust signals: who else is buying, how the developer presents itself, how finished the details feel",
-            "Will pay a premium for certainty — but punishes anything that smells like over-promising"
+            "Will pay a premium for certainty, but punishes anything that smells like over-promising"
           ],
-          "outro": "This buyer doesn't compare amenities line by line. They decide in seconds which project 'feels' more trustworthy — then rationalize with the checklist. That instinct is where the brand had to win."
+          "outro": "This buyer doesn't compare amenities line by line. They decide in seconds which project 'feels' more trustworthy, then rationalize with the checklist. That instinct is where the brand had to win."
         },
         {
           "type": "highlight",
           "label": "The challenge in one line",
-          "text": "How do you make a project command a premium per square foot — before construction is even visible from the road?"
+          "text": "How do you make a project command a premium per square foot, before construction is even visible from the road?"
         },
         {
           "type": "text",
@@ -211,8 +211,8 @@
           "title": "Perceived value is designed, not discounted.",
           "paragraphs": [
             "We audited 14 competing launches within the micro-market. Every single one shouted: exclamation-mark headlines, ten amenities per hoarding, gold-gradient everything. When everyone shouts, the confident whisper wins.",
-            "The strategy: own 'quiet luxury' — the one position nobody in the market occupied. Craft over claims. Calm over noise. Long-term value over launch-weekend urgency.",
-            "Positioning the project this way did something subtle and powerful: it moved the buyer's comparison frame from 'price per square foot' to 'which of these will I be proud to live in?' — a question our client won by default."
+            "The strategy: own 'quiet luxury', the one position nobody in the market occupied. Craft over claims. Calm over noise. Long-term value over launch-weekend urgency.",
+            "Positioning the project this way did something subtle and powerful: it moved the buyer's comparison frame from 'price per square foot' to 'which of these will I be proud to live in?', a question our client won by default."
           ]
         },
         {
@@ -221,8 +221,8 @@
           "title": "Four codes of quiet luxury.",
           "items": [
             { "title": "Craft Over Claims", "desc": "Show the shadow gap, the stone detail, the door hardware. Proof photographed beautifully beats adjectives printed loudly." },
-            { "title": "Calm Confidence", "desc": "Generous white space, restrained serif typography, one message per surface. The brand never raises its voice — because it doesn't need to." },
-            { "title": "Neighbourhood Pride", "desc": "Rooted in Vashi, not floating in render-land. Real streets, real light, real distances — the brand sells a life, not a skyline." },
+            { "title": "Calm Confidence", "desc": "Generous white space, restrained serif typography, one message per surface. The brand never raises its voice, because it doesn't need to." },
+            { "title": "Neighbourhood Pride", "desc": "Rooted in Vashi, not floating in render-land. Real streets, real light, real distances, the brand sells a life, not a skyline." },
             { "title": "Proof in Detail", "desc": "Every touchpoint finishes like the building: aligned, considered, premium in the hand. The brochure paper stock is an argument for the flat." }
           ]
         },
@@ -231,10 +231,10 @@
           "kicker": "The build",
           "title": "Eight weeks, one system.",
           "items": [
-            { "phase": "Positioning", "title": "Map the market, claim the gap.", "desc": "Competitor audit of 14 launches, buyer interviews at competing sample flats, channel-partner conversations. Output: a positioning statement the sales team could recite — and price against." },
-            { "phase": "Identity", "title": "Design an identity that raises the price.", "desc": "A restrained serif wordmark, architectural photography direction, an editorial layout system, and a materials palette — designed to feel like a property magazine, not a pamphlet." },
-            { "phase": "Systems", "title": "Build every buyer touchpoint as one kit.", "desc": "Brochure, walkthrough film, hoarding and site signage, sample-flat wayfinding, channel-partner kit, landing page, and WhatsApp collateral — one consistent system handed to sales on day one." },
-            { "phase": "Momentum", "title": "Launch the waitlist before the hoarding.", "desc": "A teaser campaign across Instagram and channel partners drove site-visit bookings from a waitlist before public launch — letting sales anchor pricing high from the first conversation." }
+            { "phase": "Positioning", "title": "Map the market, claim the gap.", "desc": "Competitor audit of 14 launches, buyer interviews at competing sample flats, channel-partner conversations. Output: a positioning statement the sales team could recite, and price against." },
+            { "phase": "Identity", "title": "Design an identity that raises the price.", "desc": "A restrained serif wordmark, architectural photography direction, an editorial layout system, and a materials palette, designed to feel like a property magazine, not a pamphlet." },
+            { "phase": "Systems", "title": "Build every buyer touchpoint as one kit.", "desc": "Brochure, walkthrough film, hoarding and site signage, sample-flat wayfinding, channel-partner kit, landing page, and WhatsApp collateral, one consistent system handed to sales on day one." },
+            { "phase": "Momentum", "title": "Launch the waitlist before the hoarding.", "desc": "A teaser campaign across Instagram and channel partners drove site-visit bookings from a waitlist before public launch, letting sales anchor pricing high from the first conversation." }
           ]
         },
         {
@@ -242,10 +242,10 @@
           "kicker": "Visual Identity & Brand System",
           "title": "The parts of quiet luxury.",
           "items": [
-            { "name": "Wordmark & Monogram", "desc": "A high-contrast serif wordmark with a drawn monogram for signage and embossing — engineered to look expensive at hoarding scale and letterhead scale alike." },
-            { "name": "Colour Palette", "desc": "Deep indigo, warm ivory, and stone grey, with a single metallic accent reserved for print finishing — restraint as a status signal." },
-            { "name": "Typography", "desc": "An editorial serif for headlines and a quiet grotesque for information — the pairing of a magazine, not a mass mailer." },
-            { "name": "Photography Direction", "desc": "Natural light, human scale, material close-ups. No fish-eye renders, no saturated skies — believability is the luxury." },
+            { "name": "Wordmark & Monogram", "desc": "A high-contrast serif wordmark with a drawn monogram for signage and embossing, engineered to look expensive at hoarding scale and letterhead scale alike." },
+            { "name": "Colour Palette", "desc": "Deep indigo, warm ivory, and stone grey, with a single metallic accent reserved for print finishing, restraint as a status signal." },
+            { "name": "Typography", "desc": "An editorial serif for headlines and a quiet grotesque for information, the pairing of a magazine, not a mass mailer." },
+            { "name": "Photography Direction", "desc": "Natural light, human scale, material close-ups. No fish-eye renders, no saturated skies, believability is the luxury." },
             { "name": "Layout System", "desc": "A strict editorial grid across brochure, hoarding, and web: one image, one line, one message per surface." },
             { "name": "Signage & Environment", "desc": "Site hoarding, sample-flat wayfinding, and sales-lounge graphics that carry the same calm through the physical journey." }
           ]
@@ -254,12 +254,12 @@
           "type": "gallery",
           "kicker": "Design in application",
           "title": "From print to plot.",
-          "intro": "The system across the buyer journey — collateral, environment, and campaign. Click any image to expand.",
+          "intro": "The system across the buyer journey, collateral, environment, and campaign. Click any image to expand.",
           "columns": 2,
           "images": [
-            { "src": "/work/real-estate/gallery-1.jpg", "alt": "Premium sales brochure set", "caption": "The brochure — paper stock chosen to make the first touch feel like the flat" },
+            { "src": "/work/real-estate/gallery-1.jpg", "alt": "Premium sales brochure set", "caption": "The brochure, paper stock chosen to make the first touch feel like the flat" },
             { "src": "/work/real-estate/gallery-2.jpg", "alt": "Entrance signage at dusk", "caption": "Entrance and lobby signage carrying the identity into the built environment" },
-            { "src": "/work/real-estate/gallery-3.jpg", "alt": "Highway hoarding at golden hour", "caption": "One image, one line — the hoarding that whispered while the market shouted" },
+            { "src": "/work/real-estate/gallery-3.jpg", "alt": "Highway hoarding at golden hour", "caption": "One image, one line, the hoarding that whispered while the market shouted" },
             { "src": "/work/real-estate.jpg", "alt": "The tower facade", "caption": "The product the brand finally matched" }
           ]
         },
@@ -282,9 +282,9 @@
         {
           "type": "credits",
           "rows": [
-            { "label": "Client", "value": "Premium Residential Developer — Navi Mumbai" },
-            { "label": "Studio", "value": "TheBrandOps — Strategy, Identity, Application Design" },
-            { "label": "Lead", "value": "Ankit Shah — Brand Strategy & Creative Direction" }
+            { "label": "Client", "value": "Premium Residential Developer, Navi Mumbai" },
+            { "label": "Studio", "value": "TheBrandOps, Strategy, Identity, Application Design" },
+            { "label": "Lead", "value": "Ankit Shah, Brand Strategy & Creative Direction" }
           ]
         }
       ]
@@ -295,7 +295,7 @@
       "tag": "ECOMMERCE / D2C",
       "industry": "Ecommerce & D2C",
       "title": "The product was great. The listing was killing it.",
-      "summary": "A fast-growing Ayurvedic wellness brand had a product customers loved and listings that buried it. We rebuilt the packaging, listing imagery, and A+ content as one conversion system — and let the numbers do the talking.",
+      "summary": "A fast-growing Ayurvedic wellness brand had a product customers loved and listings that buried it. We rebuilt the packaging, listing imagery, and A+ content as one conversion system, and let the numbers do the talking.",
       "client": "Ayurvedic Wellness D2C Brand",
       "studio": "TheBrandOps",
       "year": "2025",
@@ -314,7 +314,7 @@
           "kicker": "Background & Context",
           "title": "Traffic without trust.",
           "paragraphs": [
-            "The founders had built something real: honest formulations, loyal repeat customers, five-star reviews from everyone who actually tried the product. Growth capital was going into ads, and the ads were working — clicks were cheap and plentiful.",
+            "The founders had built something real: honest formulations, loyal repeat customers, five-star reviews from everyone who actually tried the product. Growth capital was going into ads, and the ads were working, clicks were cheap and plentiful.",
             "Then the clicks landed on the listing. Inconsistent packshots. Text-heavy infographics unreadable on a phone. Packaging that disappeared next to bigger competitors on the search results page. Conversion sat well below category benchmarks, which meant every rupee of ad spend was working twice as hard as it should.",
             "The founders were about to cut ad budgets. The real problem was the brand at the point of decision."
           ]
@@ -325,7 +325,7 @@
           "title": "We audited the category shelf first.",
           "paragraphs": [
             "Before touching a pixel, we screenshotted the top 30 competing listings across marketplaces and mapped their visual codes: what colors dominate the search page, what claims lead, what the thumbnail war actually looks like at 2 inches wide.",
-            "The pattern: everyone decorates, nobody proves. Leaf motifs, gold flourishes, Sanskrit typography — and claims floating without evidence. The gap was a brand that looks calm and clinical-adjacent: proof-forward, legible at thumbnail size, honest in tone.",
+            "The pattern: everyone decorates, nobody proves. Leaf motifs, gold flourishes, Sanskrit typography, and claims floating without evidence. The gap was a brand that looks calm and clinical-adjacent: proof-forward, legible at thumbnail size, honest in tone.",
             "That audit became the design brief. We would win the thumbnail with clarity, and win the cart with proof."
           ]
         },
@@ -340,7 +340,7 @@
           "title": "Win the thumbnail, win the cart.",
           "paragraphs": [
             "Ecommerce branding isn't brand-book branding. The 'logo on a mood board' matters less than the exact sequence of images a thumb scrolls through between doubt and checkout.",
-            "So we treated the listing itself as the brand's flagship store: seven frames per SKU, each with one job — hook, proof, ritual, ingredients, comparison, social proof, promise. The packaging was redesigned to serve frame one; the A+ content was designed to close frame seven.",
+            "So we treated the listing itself as the brand's flagship store: seven frames per SKU, each with one job, hook, proof, ritual, ingredients, comparison, social proof, promise. The packaging was redesigned to serve frame one; the A+ content was designed to close frame seven.",
             "One system, engineered around a single behavioural truth: buyers don't read listings, they scroll them. Every frame had to work alone, in order, on a phone."
           ]
         },
@@ -348,12 +348,12 @@
           "type": "pillars",
           "kicker": "The listing stack",
           "title": "Seven frames, one job each.",
-          "intro": "Every SKU shipped with the same conversion sequence — customized in content, identical in logic.",
+          "intro": "Every SKU shipped with the same conversion sequence, customized in content, identical in logic.",
           "items": [
-            { "title": "Frame 1 — The Hook", "desc": "Pack-forward hero with the single strongest claim. Designed to be legible and differentiated at thumbnail size in search results." },
-            { "title": "Frames 2–3 — The Proof", "desc": "Clinical-adjacent evidence: ingredient percentages, sourcing, certifications — designed like lab notes, not decoration." },
-            { "title": "Frames 4–5 — The Ritual", "desc": "How it fits a real morning: dosage, timing, taste. Lifestyle photography that looks like the buyer's own kitchen, not a stock resort." },
-            { "title": "Frames 6–7 — The Close", "desc": "Review wall with real customer language, then the promise frame: guarantee, delivery, and the reorder ritual." }
+            { "title": "Frame 1, The Hook", "desc": "Pack-forward hero with the single strongest claim. Designed to be legible and differentiated at thumbnail size in search results." },
+            { "title": "Frames 2–3, The Proof", "desc": "Clinical-adjacent evidence: ingredient percentages, sourcing, certifications, designed like lab notes, not decoration." },
+            { "title": "Frames 4–5, The Ritual", "desc": "How it fits a real morning: dosage, timing, taste. Lifestyle photography that looks like the buyer's own kitchen, not a stock resort." },
+            { "title": "Frames 6–7, The Close", "desc": "Review wall with real customer language, then the promise frame: guarantee, delivery, and the reorder ritual." }
           ]
         },
         {
@@ -362,9 +362,9 @@
           "title": "Six weeks from audit to relaunch.",
           "items": [
             { "phase": "Research", "title": "Category shelf audit.", "desc": "Top 30 listings mapped for visual codes, claim hierarchies, and thumbnail legibility. Deliberately designed against the category: calm where they shout, proof where they decorate." },
-            { "phase": "Identity", "title": "Packaging built for a 2-inch thumbnail.", "desc": "Refreshed pack architecture with a bold ingredient mark and high-contrast hierarchy — the pack itself became the best-performing pixel in the hero frame." },
-            { "phase": "Systems", "title": "The 7-frame listing system.", "desc": "Photography direction, infographic templates, A+ content modules, and a brand storefront — one system applied across 12 SKUs so the whole catalog converts consistently." },
-            { "phase": "Momentum", "title": "Test, read, iterate.", "desc": "A/B tests on hero frames and claim order across two hero SKUs. Winning variants rolled out catalog-wide and repurposed into ad creative — closing the loop between listing and ads." }
+            { "phase": "Identity", "title": "Packaging built for a 2-inch thumbnail.", "desc": "Refreshed pack architecture with a bold ingredient mark and high-contrast hierarchy, the pack itself became the best-performing pixel in the hero frame." },
+            { "phase": "Systems", "title": "The 7-frame listing system.", "desc": "Photography direction, infographic templates, A+ content modules, and a brand storefront, one system applied across 12 SKUs so the whole catalog converts consistently." },
+            { "phase": "Momentum", "title": "Test, read, iterate.", "desc": "A/B tests on hero frames and claim order across two hero SKUs. Winning variants rolled out catalog-wide and repurposed into ad creative, closing the loop between listing and ads." }
           ]
         },
         {
@@ -374,9 +374,9 @@
           "intro": "Packaging, listing frames, and the production behind them. Click any image to expand.",
           "columns": 2,
           "images": [
-            { "src": "/work/d2c/gallery-1.jpg", "alt": "Packaging flat lay with botanical ingredients", "caption": "The refreshed pack architecture — ingredient-forward, honest, legible" },
+            { "src": "/work/d2c/gallery-1.jpg", "alt": "Packaging flat lay with botanical ingredients", "caption": "The refreshed pack architecture, ingredient-forward, honest, legible" },
             { "src": "/work/d2c/gallery-2.jpg", "alt": "Listing frame on a phone screen", "caption": "Frame one in its natural habitat: a thumb-width of attention" },
-            { "src": "/work/d2c/gallery-3.jpg", "alt": "Product photography studio setup", "caption": "The photography system — repeatable setups so new SKUs launch on-brand" },
+            { "src": "/work/d2c/gallery-3.jpg", "alt": "Product photography studio setup", "caption": "The photography system, repeatable setups so new SKUs launch on-brand" },
             { "src": "/work/d2c.jpg", "alt": "Product line photography", "caption": "The full line, shot as one family" }
           ]
         },
@@ -400,8 +400,8 @@
           "type": "credits",
           "rows": [
             { "label": "Client", "value": "Ayurvedic Wellness D2C Brand" },
-            { "label": "Studio", "value": "TheBrandOps — Research, Packaging, Listing System, Ad Creative" },
-            { "label": "Lead", "value": "Ankit Shah — Brand Strategy & Creative Direction" }
+            { "label": "Studio", "value": "TheBrandOps, Research, Packaging, Listing System, Ad Creative" },
+            { "label": "Lead", "value": "Ankit Shah, Brand Strategy & Creative Direction" }
           ]
         }
       ]
@@ -412,8 +412,8 @@
       "tag": "PERSONAL BRAND",
       "industry": "Professional Services",
       "title": "From referred CA to the obvious choice.",
-      "summary": "A senior CA advising funded startups relied entirely on word of mouth — invisible to founders searching for exactly what he offered. The PRISM Method rebuilt his positioning, identity, and content system so credibility compounded in public, not just in referrals.",
-      "client": "Chartered Accountant & CFO Advisor — Mumbai",
+      "summary": "A senior CA advising funded startups relied entirely on word of mouth, invisible to founders searching for exactly what he offered. The PRISM Method rebuilt his positioning, identity, and content system so credibility compounded in public, not just in referrals.",
+      "client": "Chartered Accountant & CFO Advisor, Mumbai",
       "studio": "TheBrandOps",
       "year": "2025",
       "timeline": "10 weeks",
@@ -431,8 +431,8 @@
           "kicker": "Background & Context",
           "title": "Fifteen years of expertise the market never saw.",
           "paragraphs": [
-            "A client roster of funded startups. War stories from due-diligence rooms. The kind of finance instincts founders pay premium retainers for — once they find him. The problem was that they never found him.",
-            "His LinkedIn read like a resume from 2014. His website was a contact form. Founders picked flashier advisors with weaker credentials, because those advisors looked authoritative online — and every engagement he did win started with a discount conversation, because nothing in his presence signaled premium.",
+            "A client roster of funded startups. War stories from due-diligence rooms. The kind of finance instincts founders pay premium retainers for, once they find him. The problem was that they never found him.",
+            "His LinkedIn read like a resume from 2014. His website was a contact form. Founders picked flashier advisors with weaker credentials, because those advisors looked authoritative online, and every engagement he did win started with a discount conversation, because nothing in his presence signaled premium.",
             "He didn't need more competence. He needed a brand that matched it."
           ]
         },
@@ -443,7 +443,7 @@
           "intro": "We profiled the exact person the brand had to reach:",
           "items": [
             "Founder of a funded D2C or SaaS startup, ₹2–50 Cr revenue, drowning in finance decisions",
-            "Lives on LinkedIn and founder WhatsApp groups — that's where advisors get discovered and vetted",
+            "Lives on LinkedIn and founder WhatsApp groups, that's where advisors get discovered and vetted",
             "Judges expertise by public thinking: frameworks, teardowns, and specific numbers, not certificates",
             "Ready to pay premium for an advisor who has visibly 'seen this movie before'"
           ],
@@ -452,7 +452,7 @@
         {
           "type": "highlight",
           "label": "The challenge in one line",
-          "text": "How does a quiet expert become the finance voice founders already trust — before they ever need to search for one?"
+          "text": "How does a quiet expert become the finance voice founders already trust, before they ever need to search for one?"
         },
         {
           "type": "text",
@@ -460,7 +460,7 @@
           "title": "Authority is a system, not a flex.",
           "paragraphs": [
             "Personal branding for professionals usually fails in one of two ways: it stays a resume (credible but invisible), or it becomes influencer cosplay (visible but not credible). The strategy had to hold both: unmistakable expertise, published consistently.",
-            "The PRISM move was narrowing: from 'CA for everyone' to 'the finance brain for funded D2C startups.' A narrower promise reads as deeper expertise — and deeper expertise commands wider margins.",
+            "The PRISM move was narrowing: from 'CA for everyone' to 'the finance brain for funded D2C startups.' A narrower promise reads as deeper expertise, and deeper expertise commands wider margins.",
             "Then we made publishing sustainable. A senior advisor doesn't have four hours a day for content. The system had to turn one hour a week into a compounding public body of work."
           ]
         },
@@ -469,10 +469,10 @@
           "kicker": "How the brand shows up",
           "title": "Four content pillars he can actually sustain.",
           "items": [
-            { "title": "Frameworks", "desc": "Named, repeatable finance frameworks for D2C founders — the shareable assets that turn one post into a referral engine." },
+            { "title": "Frameworks", "desc": "Named, repeatable finance frameworks for D2C founders, the shareable assets that turn one post into a referral engine." },
             { "title": "War Stories", "desc": "Anonymized lessons from real due-diligence and fundraise rooms. Specificity founders can't get from generic finance content." },
             { "title": "Founder Finance Rituals", "desc": "The weekly numbers habit: what to review, when, and what it prevents. Practical enough to screenshot and pin." },
-            { "title": "Contrarian POV", "desc": "Respectful heresy on funding, valuation, and growth-at-all-costs — the posts that make founders argue in the comments and follow for more." }
+            { "title": "Contrarian POV", "desc": "Respectful heresy on funding, valuation, and growth-at-all-costs, the posts that make founders argue in the comments and follow for more." }
           ]
         },
         {
@@ -480,10 +480,10 @@
           "kicker": "The build",
           "title": "Ten weeks on the PRISM Method.",
           "items": [
-            { "phase": "Positioning", "title": "Niche down to the profitable edge.", "desc": "Positioning workshops, client interviews, and competitor voice mapping. Output: a one-line promise — 'the finance brain for funded D2C startups' — and the proof points to defend it." },
-            { "phase": "Identity", "title": "A personal identity, not a corporate costume.", "desc": "Monogram, typography, and a signature visual style for frameworks and carousels — professional enough for boardrooms, distinctive enough to be recognized mid-scroll." },
+            { "phase": "Positioning", "title": "Niche down to the profitable edge.", "desc": "Positioning workshops, client interviews, and competitor voice mapping. Output: a one-line promise, 'the finance brain for funded D2C startups', and the proof points to defend it." },
+            { "phase": "Identity", "title": "A personal identity, not a corporate costume.", "desc": "Monogram, typography, and a signature visual style for frameworks and carousels, professional enough for boardrooms, distinctive enough to be recognized mid-scroll." },
             { "phase": "Systems", "title": "A content engine that runs on one hour a week.", "desc": "LinkedIn profile overhaul, 90-day calendar, carousel and framework templates, and a one-page site with a single conversion goal: book the advisory call." },
-            { "phase": "Momentum", "title": "Publish, measure, compound.", "desc": "Weekly cadence with monthly reviews. Winning posts became lead magnets; lead magnets became advisory calls; calls became retainers — the compounding loop personal brands are supposed to be." }
+            { "phase": "Momentum", "title": "Publish, measure, compound.", "desc": "Weekly cadence with monthly reviews. Winning posts became lead magnets; lead magnets became advisory calls; calls became retainers, the compounding loop personal brands are supposed to be." }
           ]
         },
         {
@@ -491,10 +491,10 @@
           "kicker": "Visual Identity & Brand System",
           "title": "The personal brand kit.",
           "items": [
-            { "name": "Monogram & Wordmark", "desc": "A drawn monogram that works as a LinkedIn avatar at 40px and on a letterhead at full size — one mark for every context an advisor lives in." },
-            { "name": "Colour & Typography", "desc": "A deep navy base with a restrained accent — serious without being sombre. An editorial serif for authority, a clean grotesque for frameworks and data." },
+            { "name": "Monogram & Wordmark", "desc": "A drawn monogram that works as a LinkedIn avatar at 40px and on a letterhead at full size, one mark for every context an advisor lives in." },
+            { "name": "Colour & Typography", "desc": "A deep navy base with a restrained accent, serious without being sombre. An editorial serif for authority, a clean grotesque for frameworks and data." },
             { "name": "Carousel & Framework Templates", "desc": "A recognizable visual grammar for weekly frameworks: consistent grids, chart styles, and cover typography that reads as 'his' before the name appears." },
-            { "name": "Profile & Site", "desc": "LinkedIn overhaul — banner, headline, featured section — plus a one-page site with a single call to action: book the advisory call." },
+            { "name": "Profile & Site", "desc": "LinkedIn overhaul, banner, headline, featured section, plus a one-page site with a single call to action: book the advisory call." },
             { "name": "Speaker Kit", "desc": "A one-pager and slide template for podcasts and panels, so every appearance feeds the same brand instead of diluting it." }
           ]
         },
@@ -502,13 +502,13 @@
           "type": "gallery",
           "kicker": "Design in application",
           "title": "The brand, published.",
-          "intro": "Identity, content system, and stage presence — one voice everywhere. Click any image to expand.",
+          "intro": "Identity, content system, and stage presence, one voice everywhere. Click any image to expand.",
           "columns": 2,
           "images": [
-            { "src": "/work/personal-brand/gallery-1.jpg", "alt": "Personal identity stationery with monogram", "caption": "The monogram system — boardroom-grade, scroll-recognizable" },
-            { "src": "/work/personal-brand/gallery-2.jpg", "alt": "LinkedIn profile with branded banner and carousels", "caption": "The LinkedIn engine — profile, banner, and framework carousels" },
-            { "src": "/work/personal-brand/gallery-3.jpg", "alt": "Speaking on stage at a founder event", "caption": "The speaker kit in action — every stage feeds the same brand" },
-            { "src": "/work/personal-brand.jpg", "alt": "Portrait from the brand shoot", "caption": "The brand shoot — one afternoon, a year of content assets" }
+            { "src": "/work/personal-brand/gallery-1.jpg", "alt": "Personal identity stationery with monogram", "caption": "The monogram system, boardroom-grade, scroll-recognizable" },
+            { "src": "/work/personal-brand/gallery-2.jpg", "alt": "LinkedIn profile with branded banner and carousels", "caption": "The LinkedIn engine, profile, banner, and framework carousels" },
+            { "src": "/work/personal-brand/gallery-3.jpg", "alt": "Speaking on stage at a founder event", "caption": "The speaker kit in action, every stage feeds the same brand" },
+            { "src": "/work/personal-brand.jpg", "alt": "Portrait from the brand shoot", "caption": "The brand shoot, one afternoon, a year of content assets" }
           ]
         },
         {
@@ -530,9 +530,9 @@
         {
           "type": "credits",
           "rows": [
-            { "label": "Client", "value": "Chartered Accountant & CFO Advisor — Mumbai" },
-            { "label": "Studio", "value": "TheBrandOps — PRISM Method: Positioning, Identity, Systems, Momentum" },
-            { "label": "Lead", "value": "Ankit Shah — Brand Strategy & Creative Direction" }
+            { "label": "Client", "value": "Chartered Accountant & CFO Advisor, Mumbai" },
+            { "label": "Studio", "value": "TheBrandOps, PRISM Method: Positioning, Identity, Systems, Momentum" },
+            { "label": "Lead", "value": "Ankit Shah, Brand Strategy & Creative Direction" }
           ]
         }
       ]

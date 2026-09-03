@@ -1,4 +1,5 @@
 import Hero from '../components/Hero';
+import Clients from '../components/Clients';
 import Problem from '../components/Problem';
 import Services from '../components/Services';
 import Industries from '../components/Industries';
@@ -14,6 +15,7 @@ export default function Home() {
   return (
     <main>
       <Hero />
+      <Clients />
       <Problem />
       <Services />
       <Industries />
