@@ -1,0 +1,84 @@
+@import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600;700&family=DM+Sans:opsz,wght@9..40,400;9..40,500;9..40,600&family=JetBrains+Mono:wght@400;500;600&display=swap');
+@import "tailwindcss";
+
+@theme {
+  /* ── TheBrandOps palette (from thebrandops.com) ──────────── */
+  --color-ink: #060612;        /* near-black */
+  --color-ink-2: #0e0e20;
+  --color-ink-3: #17172c;
+  --color-blue: #1b2a4a;       /* brand navy — primary */
+  --color-blue-deep: #101c36;
+  --color-sky: #a7b8d6;        /* light navy tint for dark sections */
+  --color-gold: #c9962b;       /* gold — highlights ONLY */
+  --color-gold-soft: #e2c37a;  /* gold tint for dark backgrounds */
+  --color-paper: #faf9f8;
+  --color-mist: #f5f4f3;
+  --color-frost: #eeecea;
+  --color-line: #e7e2dd;
+  --color-line-dark: #232338;
+  --color-muted: #69686e;
+  --color-muted-dark: #8f8fa0;
+
+  --font-heading: "Space Grotesk", ui-sans-serif, sans-serif;
+  --font-body: "DM Sans", ui-sans-serif, sans-serif;
+  --font-mono: "JetBrains Mono", ui-monospace, monospace;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: var(--font-body);
+  background: var(--color-paper);
+  color: var(--color-ink);
+  -webkit-font-smoothing: antialiased;
+}
+
+::selection {
+  background: var(--color-blue);
+  color: #fff;
+}
+
+/* dot grid backgrounds */
+.bg-dots {
+  background-image: radial-gradient(circle, rgba(27, 42, 74, 0.13) 1px, transparent 1px);
+  background-size: 22px 22px;
+}
+.bg-dots-dark {
+  background-image: radial-gradient(circle, rgba(167, 184, 214, 0.10) 1px, transparent 1px);
+  background-size: 22px 22px;
+}
+.bg-grid-lines {
+  background-image:
+    linear-gradient(to right, rgba(27, 42, 74, 0.05) 1px, transparent 1px),
+    linear-gradient(to bottom, rgba(27, 42, 74, 0.05) 1px, transparent 1px);
+  background-size: 56px 56px;
+}
+
+/* marquee */
+@keyframes marquee {
+  from { transform: translateX(0); }
+  to { transform: translateX(-50%); }
+}
+.animate-marquee {
+  animation: marquee 32s linear infinite;
+}
+
+/* blinking cursor */
+@keyframes blink {
+  0%, 49% { opacity: 1; }
+  50%, 100% { opacity: 0; }
+}
+.animate-blink {
+  animation: blink 1.1s step-end infinite;
+}
+
+/* soft pulse for status dot */
+@keyframes ping-soft {
+  0% { transform: scale(1); opacity: 0.7; }
+  80%, 100% { transform: scale(2.4); opacity: 0; }
+}
+.animate-ping-soft {
+  animation: ping-soft 1.8s cubic-bezier(0, 0, 0.2, 1) infinite;
+}
