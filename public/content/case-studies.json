@@ -497,6 +497,35 @@
           "outro": "Every material decision serves the same test: does it feel like discovering something guarded and precious?"
         },
         {
+          "type": "gallery",
+          "kicker": "Design in application",
+          "title": "The brand world, in the hand.",
+          "intro": "The adorned hand, the packaging system, and the treasure-dark identity across the bottle and beyond. Click any image to expand.",
+          "columns": 2,
+          "images": [
+            {
+              "src": "/work/yaksha/gallery-1.jpg",
+              "alt": "Yaksha whisky bottle with the adorned hand label",
+              "caption": "The bottle: the adorned hand rendered in relief on the label architecture"
+            },
+            {
+              "src": "/work/yaksha/gallery-2.jpg",
+              "alt": "Yaksha packaging detail with ornament system",
+              "caption": "The packaging system: treasure-dark grounds lit by controlled metallic accents"
+            },
+            {
+              "src": "/work/yaksha/gallery-3.jpg",
+              "alt": "Yaksha brand identity application",
+              "caption": "The identity in application: ancient richness, modern precision"
+            },
+            {
+              "src": "/work/yaksha/hero.jpg",
+              "alt": "Yaksha brand identity with the adorned hand symbol",
+              "caption": "The adorned hand: guardianship, cultural depth, and ownability in one gesture"
+            }
+          ]
+        },
+        {
           "type": "text",
           "kicker": "Beyond the bottle",
           "title": "A brand world built to scale.",
