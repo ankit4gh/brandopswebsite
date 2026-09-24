@@ -17,11 +17,12 @@ export default function Footer() {
         <div className="grid gap-10 md:grid-cols-[1.4fr_1fr_1fr]">
           {/* brand */}
           <div>
-            <Link to="/" className="flex items-center gap-2.5">
-              <span className="flex h-8 w-8 items-center justify-center rounded-md bg-blue font-heading text-lg font-bold text-white">
-                B
-              </span>
-              <span className="font-heading text-lg font-semibold tracking-tight">brandops</span>
+            <Link to="/" className="flex items-center">
+              <img
+                src="/logo.png"
+                alt="BrandOps"
+                className="h-10 w-auto object-contain"
+              />
             </Link>
             <p className="mt-4 max-w-sm font-body text-sm leading-relaxed text-muted-dark">
               Brand Strategy & Identity Design studio. Designs with purpose. Brands with impact.
