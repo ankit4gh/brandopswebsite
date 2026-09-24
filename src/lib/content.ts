@@ -41,7 +41,7 @@ export type Block =
   /* numbered process steps (renders on dark) */
   | { type: 'steps'; kicker?: string; title?: string; items: { phase?: string; title: string; desc: string }[] }
   /* visual identity / brand system rows */
-  | { type: 'system'; kicker?: string; title?: string; intro?: string; paragraphs?: string[]; itemsTitle?: string[]; items: { name: string; desc: string }[] }
+  | { type: 'system'; kicker?: string; title?: string; intro?: string; paragraphs?: string[]; itemsTitle?: string; items: { name: string; desc: string }[] }
   /* big result numbers */
   | { type: 'stats'; kicker?: string; title?: string; items: { value: string; label: string }[] }
   /* client quote */
