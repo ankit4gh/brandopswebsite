@@ -724,8 +724,152 @@
       ]
     },
     {
-      "slug": "prism-personal-brand-ca",
+      "slug": "yaksha-premium-spirits",
       "num": "04",
+      "tag": "SPIRITS / FMCG",
+      "industry": "Premium Spirits",
+      "title": "An ancient Indian narrative, bottled as a contemporary whisky brand.",
+      "summary": "Yaksha is a comprehensive brand strategy and identity project: transforming an ancient Indian narrative into a contemporary premium whisky brand. Anchored by the adorned hand as its brand symbol, the identity balances ancient richness with modern precision, and extends into a packaging system and a scalable brand world beyond the bottle.",
+      "client": "Yaksha, Premium Spirits",
+      "studio": "TheBrandOps",
+      "year": "2025",
+      "timeline": "Brand strategy & identity",
+      "disciplines": ["Research", "Brand Strategy", "Naming & Narrative", "Visual Identity", "Packaging System", "Brand World"],
+      "image": "/work/yaksha/hero.jpg",
+      "imageAlt": "Yaksha premium whisky brand identity with the adorned hand symbol",
+      "cardStats": [
+        { "value": "1", "label": "Symbol: the adorned hand, ownable at a glance" },
+        { "value": "\u221e", "label": "A brand world built to scale beyond the bottle" }
+      ],
+      "sections": [
+        { "type": "overview" },
+        {
+          "type": "text",
+          "kicker": "Background & Context",
+          "title": "From ancient narrative to contemporary spirit.",
+          "paragraphs": [
+            "In Indian mythology, the Yaksha are guardians of hidden treasure: nature spirits of abundance, keepers of what is precious beneath the earth. It is a story of guardianship, reward, and quiet power, and it had never been given to a whisky.",
+            "The brief was a comprehensive brand strategy and identity: take this ancient Indian narrative and transform it into a contemporary premium whisky brand that could stand on an international back bar, not a souvenir shelf.",
+            "Indian single malts are winning global awards, yet most Indian spirit brands still borrow their codes from Scotland or fall into ornamental cliche. Yaksha had the chance to do neither."
+          ]
+        },
+        {
+          "type": "highlight",
+          "label": "The brand opportunity",
+          "text": "Create a premium whisky that is culturally resonant without stereotyping: rooted in Indian narrative, never reduced to ornament."
+        },
+        {
+          "type": "text",
+          "kicker": "Strategy Lens",
+          "title": "The guardian of the treasure, not the decoration on it.",
+          "paragraphs": [
+            "Cultural branding fails in two directions: it either erases its origin to look 'international', or it drowns in cliche, elephants, paisley, gold-on-gold. The strategy held a third line: treat the Yaksha narrative as a worldview, not a wallpaper.",
+            "Positioning: the whisky as guarded treasure. Every strategic decision, naming, story, symbol, structure, flows from the idea of something precious, protected, and finally revealed.",
+            "That narrative gave the brand its most important asset: a symbol that could carry the entire story in a single gesture."
+          ]
+        },
+        {
+          "type": "pillars",
+          "kicker": "The brand symbol",
+          "title": "The adorned hand.",
+          "intro": "One image carries the whole narrative: a hand adorned with traditional ornament, holding what it guards. It became the brand's signature across every touchpoint.",
+          "items": [
+            { "title": "Guardianship", "desc": "The hand protects the treasure, the whisky itself. It signals care, provenance, and the patience of maturation without a single word." },
+            { "title": "Cultural Depth", "desc": "The adornment draws from Indian jewellery traditions, rendered with restraint: cultural resonance through craft, not costume." },
+            { "title": "Instant Ownability", "desc": "No other spirit brand owns this gesture. At bar distance, on shelf or in silhouette, the adorned hand reads as Yaksha alone." },
+            { "title": "A Storytelling Engine", "desc": "The hand can hold, reveal, offer, and guard: a flexible motif that gives campaigns, editions, and rituals a consistent visual grammar." }
+          ]
+        },
+        {
+          "type": "image",
+          "src": "/work/yaksha/hero.jpg",
+          "alt": "Yaksha brand identity, the adorned hand symbol on the whisky's visual world",
+          "caption": "The adorned hand: guardianship, cultural depth, and ownability in one gesture"
+        },
+        {
+          "type": "system",
+          "kicker": "Visual Identity",
+          "title": "Ancient richness, modern precision.",
+          "intro": "The identity system holds two forces in deliberate tension: the depth of an old story and the discipline of a contemporary premium brand.",
+          "items": [
+            { "name": "Wordmark & Symbol", "desc": "A confident contemporary wordmark paired with the adorned hand mark, engineered to work in foil on glass, embossed on paper, and at avatar size on a screen." },
+            { "name": "Colour World", "desc": "Deep, treasure-dark grounds, midnight, earth, and lacquer tones, lit by controlled metallic accents. Richness through depth, not through gold-on-gold excess." },
+            { "name": "Typography", "desc": "A refined serif carrying the narrative voice, set against a precise modern grotesque for information: the ancient and the contemporary on one label." },
+            { "name": "Ornament System", "desc": "Adornment codes drawn from Indian craft, redrawn as a disciplined graphic language, applied sparingly so every flourish stays intentional." },
+            { "name": "Narrative Voice", "desc": "Copy written as the guardian speaks: assured, generous, unhurried. Myth referenced with a straight face, never a wink or a stereotype." }
+          ]
+        },
+        {
+          "type": "list",
+          "kicker": "Packaging System",
+          "title": "The identity, made tactile.",
+          "intro": "The packaging system translates the brand identity into a physical, tactile experience: the moment the story moves from the eye to the hand.",
+          "items": [
+            "Bottle structure with weight and shoulder presence that signals premium before the label is read",
+            "Label architecture with embossing and foil detail, the adorned hand rendered in relief you can feel",
+            "Textured paper stocks and deep-ground colour that carry the treasure-dark palette into the hand",
+            "A gifting carton designed as an act of revealing: opening the box re-enacts the narrative of guarded treasure",
+            "A hierarchy built for range extensions, so age statements and editions slot in without redesign"
+          ],
+          "outro": "Every material decision serves the same test: does it feel like discovering something guarded and precious?"
+        },
+        {
+          "type": "gallery",
+          "kicker": "Design in application",
+          "title": "The brand world, in the hand.",
+          "intro": "The adorned hand, the packaging system, and the treasure-dark identity across the bottle and beyond. Click any image to expand.",
+          "columns": 2,
+          "images": [
+            {
+              "src": "/work/yaksha/gallery-1.jpg",
+              "alt": "Yaksha whisky bottle with the adorned hand label",
+              "caption": "The bottle: the adorned hand rendered in relief on the label architecture"
+            },
+            {
+              "src": "/work/yaksha/gallery-2.jpg",
+              "alt": "Yaksha packaging detail with ornament system",
+              "caption": "The packaging system: treasure-dark grounds lit by controlled metallic accents"
+            },
+            {
+              "src": "/work/yaksha/gallery-3.jpg",
+              "alt": "Yaksha brand identity application",
+              "caption": "The identity in application: ancient richness, modern precision"
+            },
+            {
+              "src": "/work/yaksha/hero.jpg",
+              "alt": "Yaksha brand identity with the adorned hand symbol",
+              "caption": "The adorned hand: guardianship, cultural depth, and ownability in one gesture"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "kicker": "Beyond the bottle",
+          "title": "A brand world built to scale.",
+          "paragraphs": [
+            "Yaksha was designed as a complete brand world, not a one-off label. The narrative, symbol, and identity system extend naturally into bar rituals and serve ware, limited editions, tasting experiences, retail environments, and brand storytelling across film and social.",
+            "Because the system is built on a story and a symbol rather than a single pack design, it scales: new expressions, new markets, and new brand experiences all draw from the same guarded-treasure narrative without diluting it.",
+            "The result is a premium whisky brand with the depth to grow into a house: culturally resonant, contemporary in execution, and unmistakably its own."
+          ]
+        },
+        {
+          "type": "chips",
+          "kicker": "Shipped",
+          "items": ["Brand strategy & positioning", "Naming & narrative", "The adorned hand symbol", "Visual identity system", "Packaging & label system", "Gifting carton", "Brand world & extension guidelines"]
+        },
+        {
+          "type": "credits",
+          "rows": [
+            { "label": "Client", "value": "Yaksha, Premium Spirits" },
+            { "label": "Studio", "value": "TheBrandOps, Strategy, Identity, Packaging, Brand World" },
+            { "label": "Leads", "value": "Ankit Shah & Deepali Shah, Brand Strategy & Creative Direction" }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "prism-personal-brand-ca",
+      "num": "05",
       "tag": "PERSONAL BRAND",
       "industry": "Professional Services",
       "title": "From referred CA to the obvious choice.",
