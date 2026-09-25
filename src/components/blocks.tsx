@@ -43,8 +43,9 @@ function Title({ text, dark = false }: { text?: string; dark?: boolean }) {
   if (!text) return null;
   return (
     <h2
-      className={`mt-4 max-w-3xl font-heading text-2xl font-semibold leading-tight tracking-tight sm:text-4xl ${dark ? 'text-white' : 'text-ink'
-        }`}
+      className={`mt-4 max-w-3xl font-heading text-2xl font-semibold leading-tight tracking-tight sm:text-4xl ${
+        dark ? 'text-white' : 'text-ink'
+      }`}
     >
       {text}
     </h2>
@@ -216,8 +217,7 @@ export function BlockRenderer({ block, study }: { block: Block; study: CaseStudy
       const rows = [
         { label: 'CLIENT', value: study.client },
         { label: 'STUDIO', value: study.studio },
-        { label: 'TIMELINE', value: study.timeline },
-        // { label: 'TIMELINE', value: `${study.year} · ${study.timeline}` },
+        { label: 'TIMELINE', value: `${study.year} · ${study.timeline}` },
         { label: 'DISCIPLINES', value: study.disciplines.join(' · ') },
       ];
       return (
@@ -254,18 +254,11 @@ export function BlockRenderer({ block, study }: { block: Block; study: CaseStudy
               {block.paragraphs.map((p, i) => (
                 <Reveal key={i} delay={0.04 * i}>
                   <p
-                    className={`font-body text-[15px] leading-relaxed sm:text-base ${dark ? 'text-muted-dark' : 'text-muted'
-                      }`}
+                    className={`font-body text-[15px] leading-relaxed sm:text-base ${
+                      dark ? 'text-muted-dark' : 'text-muted'
+                    }`}
                   >
-                    {p.split(/(\*\*.*?\*\*)/g).map((part, index) =>
-                      part.startsWith('**') && part.endsWith('**') ? (
-                        <strong key={index} className="font-semibold text-ink">
-                          {part.slice(2, -2)}
-                        </strong>
-                      ) : (
-                        part
-                      )
-                    )}
+                    {p}
                   </p>
                 </Reveal>
               ))}
@@ -292,10 +285,11 @@ export function BlockRenderer({ block, study }: { block: Block; study: CaseStudy
             {block.items.map((item, i) => (
               <Reveal key={i} delay={0.03 * i}>
                 <li
-                  className={`flex items-start gap-3 rounded-lg border p-4 font-body text-sm leading-relaxed ${dark
-                    ? 'border-line-dark bg-ink-2/70 text-white/85'
-                    : 'border-line bg-white text-ink'
-                    }`}
+                  className={`flex items-start gap-3 rounded-lg border p-4 font-body text-sm leading-relaxed ${
+                    dark
+                      ? 'border-line-dark bg-ink-2/70 text-white/85'
+                      : 'border-line bg-white text-ink'
+                  }`}
                 >
                   <span aria-hidden className="mt-0.5 font-mono text-xs text-gold">◆</span>
                   {item}
@@ -443,32 +437,6 @@ export function BlockRenderer({ block, study }: { block: Block; study: CaseStudy
               <p className="mt-4 max-w-2xl font-body text-[15px] leading-relaxed text-muted">{block.intro}</p>
             )}
           </Reveal>
-          {block.paragraphs && (
-            <div className="mt-5 max-w-3xl space-y-4">
-              {block.paragraphs.map((paragraph, i) => (
-                <Reveal key={i} delay={0.04 * i}>
-                  <p className="font-body text-[15px] leading-relaxed text-muted sm:text-base">
-                    {paragraph.split(/(\*\*.*?\*\*)/g).map((part, index) =>
-                      part.startsWith('**') && part.endsWith('**') ? (
-                        <strong key={index} className="font-semibold text-ink">
-                          {part.slice(2, -2)}
-                        </strong>
-                      ) : (
-                        part
-                      )
-                    )}
-                  </p>
-                </Reveal>
-              ))}
-            </div>
-          )}
-          {block.itemsTitle && (
-            <Reveal>
-              <h3 className="mt-10 font-heading text-2xl font-semibold tracking-tight text-ink sm:text-3xl">
-                {block.itemsTitle}
-              </h3>
-            </Reveal>
-          )}
           <div className="mt-8 border-t border-line">
             {block.items.map((item, i) => (
               <Reveal key={item.name} delay={0.03 * i}>
@@ -492,7 +460,7 @@ export function BlockRenderer({ block, study }: { block: Block; study: CaseStudy
             <Kicker text={block.kicker || 'OUTCOME'} />
             <Title text={block.title} />
           </Reveal>
-          <div className="mt-8 grid gap-px overflow-hidden rounded-xl border border-line bg-line sm:grid-cols-2 lg:grid-cols-3">
+          <div className="mt-8 grid gap-px overflow-hidden rounded-xl border border-line bg-line sm:grid-cols-2 lg:grid-cols-4">
             {block.items.map((r, i) => (
               <Reveal key={r.label} delay={0.04 * i} className="h-full">
                 <div className="flex h-full flex-col bg-white p-6 transition-colors hover:bg-mist">

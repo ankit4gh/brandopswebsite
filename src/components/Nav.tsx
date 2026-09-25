@@ -13,28 +13,16 @@ const PAGES = [
 
 function Logo() {
   return (
-    <Link to="/" className="flex items-center">
-      <img
-        src="/logo.png"
-        alt="BrandOps"
-        className="h-10 w-auto object-contain"
-      />
+    <Link to="/" className="flex items-center gap-2.5">
+      <span className="flex h-8 w-8 items-center justify-center rounded-md bg-blue font-heading text-lg font-bold text-white">
+        B
+      </span>
+      <span className="font-heading text-lg font-semibold tracking-tight text-ink">
+        brandops
+      </span>
     </Link>
   );
 }
-
-// function Logo() {
-//   return (
-//     <Link to="/" className="flex items-center gap-2.5">
-//       <span className="flex h-8 w-8 items-center justify-center rounded-md bg-blue font-heading text-lg font-bold text-white">
-//         B
-//       </span>
-//       <span className="font-heading text-lg font-semibold tracking-tight text-ink">
-//         brandops
-//       </span>
-//     </Link>
-//   );
-// }
 
 export default function Nav() {
   const [open, setOpen] = useState(false);
@@ -54,8 +42,9 @@ export default function Nav() {
 
   return (
     <header
-      className={`fixed inset-x-0 top-0 z-50 transition-all ${scrolled || open ? 'border-b border-line bg-paper/85 backdrop-blur-md' : 'bg-transparent'
-        }`}
+      className={`fixed inset-x-0 top-0 z-50 transition-all ${
+        scrolled || open ? 'border-b border-line bg-paper/85 backdrop-blur-md' : 'bg-transparent'
+      }`}
     >
       <nav className="mx-auto flex max-w-6xl items-center justify-between px-5 py-3.5 sm:px-8">
         <Logo />
@@ -66,7 +55,8 @@ export default function Nav() {
               key={p.to}
               to={p.to}
               className={({ isActive }) =>
-                `font-body text-sm font-medium transition-colors ${isActive ? 'text-blue' : 'text-muted hover:text-ink'
+                `font-body text-sm font-medium transition-colors ${
+                  isActive ? 'text-blue' : 'text-muted hover:text-ink'
                 }`
               }
             >
@@ -107,7 +97,8 @@ export default function Nav() {
                 key={p.to}
                 to={p.to}
                 className={({ isActive }) =>
-                  `rounded-md px-3 py-2.5 font-heading text-base font-medium hover:bg-frost ${isActive ? 'text-blue' : 'text-ink'
+                  `rounded-md px-3 py-2.5 font-heading text-base font-medium hover:bg-frost ${
+                    isActive ? 'text-blue' : 'text-ink'
                   }`
                 }
               >

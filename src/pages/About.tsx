@@ -44,6 +44,27 @@ const FOUNDERS = [
   },
 ];
 
+const TEAM = [
+  {
+    name: 'Pranshu Patel',
+    role: 'SENIOR DEVELOPER',
+    email: 'pranshu.brandops@gmail.com',
+    photo: '/team/pranshu-patel.jpg',
+  },
+  {
+    name: 'Aarav Mehta',
+    role: 'BRAND DESIGNER',
+    email: 'aarav.brandops@gmail.com',
+    photo: '/team/aarav-mehta.jpg',
+  },
+  {
+    name: 'Sara Fernandes',
+    role: 'CONTENT STRATEGIST',
+    email: 'sara.brandops@gmail.com',
+    photo: '/team/sara-fernandes.jpg',
+  },
+];
+
 const MILESTONES = [
   { year: 'FORTUNE 500', text: 'Built global brand systems for learning & development inside Fortune 500 companies, across 40+ countries.' },
   { year: '4× AWARDS', text: 'Programs carrying those brand systems won multiple Brandon Hall Excellence Awards.' },
@@ -73,7 +94,7 @@ export default function About() {
       {/* founder story */}
       <section className="relative bg-mist">
         <div className="mx-auto max-w-6xl px-5 py-16 sm:px-8 sm:py-24">
-          <SectionTag label="THE STORY" index={1} total={4} />
+          <SectionTag label="THE STORY" index={1} total={5} />
 
           <div className="mt-12 grid items-start gap-10 lg:grid-cols-[1fr_1.1fr] lg:gap-16">
             {/* founders */}
@@ -142,10 +163,57 @@ export default function About() {
         </div>
       </section>
 
-      {/* principles */}
+      {/* team */}
       <section className="relative bg-paper">
         <div className="mx-auto max-w-6xl px-5 py-16 sm:px-8 sm:py-24">
-          <SectionTag label="OPERATING PRINCIPLES" index={2} total={4} />
+          <SectionTag label="THE TEAM" index={2} total={5} />
+
+          <Reveal>
+            <h2 className="mt-12 max-w-2xl font-heading text-3xl font-semibold leading-tight tracking-tight text-ink sm:text-5xl">
+              The people behind the brands.
+            </h2>
+          </Reveal>
+
+          <div className="mt-12 grid gap-5 sm:grid-cols-2 lg:grid-cols-3">
+            {TEAM.map((t, i) => (
+              <Reveal key={t.name} delay={0.06 * i} className="h-full">
+                <div className="group relative flex h-full flex-col overflow-hidden rounded-xl border border-line bg-white transition-all hover:-translate-y-1 hover:border-blue/40 hover:shadow-[0_24px_50px_-24px_rgba(27,42,74,0.35)]">
+                  <Corners />
+                  <div className="relative aspect-[4/5] overflow-hidden">
+                    <img
+                      src={t.photo}
+                      alt={t.name}
+                      loading="lazy"
+                      className="h-full w-full object-cover object-top transition-transform duration-500 group-hover:scale-[1.03]"
+                    />
+                    <div className="absolute inset-0 bg-gradient-to-t from-ink/60 via-transparent to-transparent" />
+                  </div>
+                  <div className="flex flex-1 flex-col p-5">
+                    <h3 className="font-heading text-xl font-semibold tracking-tight text-ink">
+                      {t.name}
+                    </h3>
+                    <p className="mt-1 font-mono text-[10px] tracking-[0.18em] text-gold">
+                      {t.role}
+                    </p>
+                    <a
+                      href={`mailto:${t.email}`}
+                      className="mt-4 inline-flex items-center gap-2 border-t border-line pt-4 font-mono text-[11px] text-muted transition-colors hover:text-blue"
+                    >
+                      <span aria-hidden className="text-gold">〉</span>
+                      {t.email}
+                    </a>
+                  </div>
+                </div>
+              </Reveal>
+            ))}
+          </div>
+        </div>
+      </section>
+
+      {/* principles */}
+      <section className="relative bg-mist">
+        <div className="mx-auto max-w-6xl px-5 py-16 sm:px-8 sm:py-24">
+          <SectionTag label="OPERATING PRINCIPLES" index={3} total={5} />
 
           <Reveal>
             <h2 className="mt-12 max-w-2xl font-heading text-3xl font-semibold leading-tight tracking-tight text-ink sm:text-5xl">
@@ -177,7 +245,7 @@ export default function About() {
           className="absolute left-[-180px] bottom-[-160px] h-[440px] w-[440px] rounded-full bg-[radial-gradient(closest-side,rgba(27,42,74,0.55),transparent)]"
         />
         <div className="relative mx-auto max-w-6xl px-5 py-16 sm:px-8 sm:py-24">
-          <SectionTag label="THE ENGINE" index={3} total={4} dark />
+          <SectionTag label="THE ENGINE" index={4} total={5} dark />
 
           <div className="mt-12 flex flex-wrap items-end justify-between gap-6">
             <Reveal>
@@ -213,7 +281,7 @@ export default function About() {
         </div>
       </section>
 
-      <Testimonials index={4} total={4} />
+      <Testimonials index={5} total={5} />
       <Cta />
     </main>
   );

@@ -53,7 +53,7 @@ export default function Work() {
                         <span className="text-gold-soft">{cs.num}</span> · {cs.tag}
                       </span>
                       <span className="absolute bottom-5 left-5 font-mono text-[11px] tracking-[0.15em] text-white/90">
-                        {cs.timeline.toUpperCase()}
+                        {cs.year} · {cs.timeline.toUpperCase()}
                       </span>
                     </div>
 
