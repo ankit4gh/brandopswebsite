@@ -14,19 +14,21 @@
       "num": "01",
       "tag": "CORPORATE / L&D",
       "industry": "Fortune 500 · Global Learning",
-      "title": "One brand system for learning across 40+ countries.",
-      "summary": "A Fortune 500 consumer goods giant had world-class learning content, and forty different versions of what it looked like. We built the BrandBook, motion system, and GenAI video pipeline that made every learning asset instantly recognizable, in every market.",
-      "client": "Fortune 500 CPG Leader, Global L&D",
-      "studio": "TheBrandOps",
-      "year": "2021–2024",
-      "timeline": "3-year engagement",
+      "title": "A global specialty chemicals brand, rebuilt around trust, responsibility, and scientific confidence.",
+      "summary": "Nouryon's separation from AkzoNobel created more than a new corporate entity. It created the need for a brand that could establish credibility independently, across markets, industries, employees, investors, and regulatory environments. The challenge was to transform a newly independent company into a globally trusted specialty chemicals partner without losing the scientific expertise and operational credibility that made the business valuable in the first place.",
+      "client": "Nouryon",
+      "studio": "BrandOps",
+      "year": "2024-2025",
+      "timeline": "2-year engagement",
       "disciplines": [
         "Research",
-        "Strategy",
+        "Brand Strategy",
+        "Positioning",
+        "Brand Architecture",
         "Visual Identity",
-        "Motion Design",
-        "GenAI Video",
-        "Template Systems"
+        "Brand Guidelines",
+        "Environmental Branding",
+        "Brand Activation"
       ],
       "image": "/work/global-learning.jpg",
       "imageAlt": "Corporate learning presentation in a modern office",
@@ -47,11 +49,12 @@
         {
           "type": "text",
           "kicker": "Background & Context",
-          "title": "Great content was everywhere. The brand was nowhere.",
+          "title": "A new company needed to earn trust quickly.",
           "paragraphs": [
-            "The Global Learning & Development team was shipping hundreds of programs a year, eLearning modules, explainer videos, leadership toolkits, live workshops, across more than forty countries. The content was genuinely excellent: research-backed, award-worthy, built by people who cared.",
-            "But every region, vendor, and internal team designed to its own taste. A program launched from New York looked nothing like its rollout in São Paulo, which looked nothing like the version localized in Warsaw. Learners couldn't tell official global programs from local one-offs, and leadership couldn't point at any asset and say 'that's ours.'",
-            "TheBrandOps was brought in to change that: to give a global learning organization one recognizable face, and a way to keep it consistent without becoming a design bottleneck."
+            "Following its separation from AkzoNobel, Nouryon needed to establish itself as a credible standalone global company. But this was not a conventional rebranding exercise.",
+            "Nouryon operates in specialty chemicals an industry where customers depend on consistency, scientific expertise, regulatory compliance, and long-term reliability.",
+            "The brand therefore needed to communicate confidence without arrogance, science without coldness, and responsibility without becoming corporate cliché.",
+            "The opportunity was to create a brand that could feel new while behaving like an established global institution."
           ]
         },
         {
@@ -68,107 +71,110 @@
         {
           "type": "text",
           "kicker": "The Challenge",
-          "title": "Recognition can't be memoed into existence.",
+          "title": "How do you make a newly independent company feel globally established?",
           "paragraphs": [
-            "The obvious answer, a PDF style guide and a stern email, had already been tried. Twice. Style guides don't survive contact with forty markets, hundreds of contributors, and vendors on four continents.",
-            "The problem wasn't discipline. It was that the brand had never been designed as a system: something with parts people could pick up, snap together, and ship with, faster than designing from scratch."
+            "In high-stakes industries, brand perception has operational consequences. Trust influences:",
+            "Long-term contracts: Customers need confidence in continuity.",
+            "Regulatory confidence: The brand must communicate control, responsibility, and scientific rigor.",
+            "Investor trust: A newly independent organization needs to signal stability and maturity.",
+            "Enterprise partnerships: Global customers need a partner that feels capable of operating at their scale."
           ]
         },
         {
           "type": "highlight",
           "label": "The challenge in one line",
-          "text": "How does a global team make hundreds of learning assets, made by many hands in many markets, look and feel like one brand, without slowing anyone down?"
+          "text": "Build a brand that looks ready for the responsibility it carries."
         },
         {
           "type": "text",
           "kicker": "Strategy Lens",
-          "title": "Brand as an operating system, not a style guide.",
+          "title": "From chemical supplier to essential partner.",
           "paragraphs": [
-            "A style guide tells people what they can't do. An operating system gives them things to build with. We treated the learning brand as infrastructure: every rule shipped with a ready-made asset that made following it the fastest option.",
-            "The strategic insight: adoption follows convenience. If the on-brand way is also the easy way, consistency stops being a compliance problem and becomes a default behavior.",
-            "This became the test for everything we made, 'is this faster than doing it off-brand?' If not, it went back to the studio."
+            "The positioning moved Nouryon away from being perceived simply as a chemical manufacturer or legacy supplier. Instead, the brand was positioned as a trusted scientific partner behind the industries that power modern life.",
+            "The identity needed to reinforce four perceptions:",
+            "TRUST: A company customers can depend on.",
+            "EXPERTISE: Deep scientific and technical knowledge.",
+            "RESPONSIBILITY: Safety, sustainability, and long-term thinking.",
+            "SCALE: A global organization capable of delivering consistently."
           ]
         },
         {
           "type": "pillars",
-          "kicker": "How the brand shows up",
-          "title": "Four pillars anchored every asset.",
-          "intro": "Long-term communication pillars gave hundreds of contributors a shared answer to 'what should this feel like?'",
+          "kicker": "Brand Archetype",
+          "title": "The Sage, grounded by the Caregiver.",
+          "intro": "Nouryon's personality sits between two complementary archetypes.",
           "items": [
             {
-              "title": "Art to the Science",
-              "desc": "Learning is rigorous; the brand makes it beautiful. Every asset pairs instructional soundness with visual craft, never one without the other."
+              "title": "The Sage",
+              "desc": "Knowledge-driven. Rational. Precise. The Sage gives Nouryon its scientific authority communicating expertise through clarity rather than complexity."
             },
             {
-              "title": "One Global Voice",
-              "desc": "Confident, human, jargon-free. A tone litmus test shipped with the BrandBook: can a learner in any market understand it on first read?"
-            },
-            {
-              "title": "Motion First",
-              "desc": "Learning competes with everything else on an employee's screen. Motion, intros, transitions, kinetic type, earns the first five seconds."
-            },
-            {
-              "title": "Scale Without Sameness",
-              "desc": "Templates flex by region and program tier, so assets feel local in language and global in identity, never photocopied."
+              "title": "The Caregiver",
+              "desc": "Responsible. Protective. Long-term oriented. The Caregiver brings humanity to the scientific positioning, ensuring that safety, sustainability, and responsibility remain visible throughout the brand."
             }
           ]
         },
         {
           "type": "steps",
-          "kicker": "The build",
-          "title": "From audit to operating system.",
+          "kicker": "Brand Persona",
+          "title": "Calm. Precise. Confident. Responsible. Authoritative.",
+          "paragraphs": [
+            "The personality was designed to avoid the two extremes common in technical industries: too corporate or too experimental.",
+            "Nouryon needed a personality that could speak confidently to scientists, customers, investors, employees, and regulators."
+          ],
           "items": [
             {
-              "phase": "Research",
-              "title": "Audit 300+ assets across regions.",
-              "desc": "We collected three years of learning assets from every region and mapped the drift: 14 unofficial logo variants, 30+ color interpretations, no shared typography. The audit became the business case leadership presented internally."
+              "phase": "Calm",
+              "title": "Measured and composed.",
+              "desc": " "
             },
             {
-              "phase": "Identity",
-              "title": "Design the BrandBook.",
-              "desc": "A complete visual language, lockups, color, typography, iconography, data-viz, photography and illustration codes, documented as a living BrandBook with do/don't examples pulled from the audit itself."
+              "phase": "Precise",
+              "title": "Clear, factual, and purposeful.",
+              "desc": " "
             },
             {
-              "phase": "Systems",
-              "title": "Ship templates, not rules.",
-              "desc": "Slide systems, eLearning skins, video intro/outro packages, motion graphics kits, and program launch toolkits. Every rule in the BrandBook shipped with a matching asset a team could use in minutes."
+              "phase": "Confident",
+              "title": "Knowledgeable without being arrogant.",
+              "desc": " "
             },
             {
-              "phase": "Momentum",
-              "title": "Build the GenAI video pipeline.",
-              "desc": "An AI-assisted pipeline turned approved scripts into on-brand animated explainers in days instead of months, with brand elements baked into the pipeline so speed never cost consistency."
+              "phase": "Responsible",
+              "title": "Aware of long-term consequences.",
+              "desc": " "
+            },
+            {
+              "phase": "Authoritative",
+              "title": "A global specialist with the experience to lead.",
+              "desc": " "
             }
           ]
         },
         {
           "type": "system",
-          "kicker": "Visual Identity & Brand System",
-          "title": "What's inside the BrandBook.",
-          "intro": "Every element was designed to be picked up by non-designers and still come out right.",
+          "kicker": "Visual Identity",
+          "title": "Scientific authority, expressed with clarity.",
+          "intro": "The visual identity translates Nouryon's strategic positioning into a system that feels precise, confident, and human. Rather than relying on complicated scientific imagery or conventional corporate aesthetics, the system uses clarity, structure, colour, typography, and consistency to build recognition.",
           "items": [
             {
-              "name": "Logo & Lockup System",
-              "desc": "A master mark with program-tier lockups, so flagship academies, regional rollouts, and micro-learnings each signal their level while staying visibly one family."
+              "name": "Wordmark",
+              "desc": "The Nouryon wordmark establishes a confident and contemporary masterbrand presence."
             },
             {
-              "name": "Colour Architecture",
-              "desc": "A disciplined core palette with regional accent ranges, enough room for local energy, tight enough that every asset reads as the same brand at a glance."
+              "name": "Symbol",
+              "desc": "The distinctive N symbol provides a compact recognition device for digital and physical applications."
+            },
+            {
+              "name": "Color",
+              "desc": "A blue-led foundation establishes trust and stability, supported by a secondary colour architecture."
             },
             {
               "name": "Typography",
-              "desc": "A licensed global type pairing with a fallback stack for every OS and authoring tool the company used, because a font that isn't installed is a brand rule that gets broken."
+              "desc": "Museo Sans Round creates a human quality within an otherwise highly technical environment."
             },
             {
-              "name": "Iconography & Data-Viz",
-              "desc": "A 200+ icon library and chart styles built for learning content: progress, assessment, skill maps, and journeys, the visuals L&D actually needs weekly."
-            },
-            {
-              "name": "Motion Language",
-              "desc": "Timing curves, transition rules, kinetic type styles, and branded intro/outro packages that made every video recognizably 'ours' in the first two seconds."
-            },
-            {
-              "name": "GenAI Production Pipeline",
-              "desc": "Script-to-video workflow with brand assets embedded at the pipeline level, the fastest production path in the organization was also the most on-brand one."
+              "name": "Grid & Hierarchy",
+              "desc": "Structured layouts and generous whitespace make complex information easier to understand."
             }
           ]
         },
@@ -234,13 +240,19 @@
           "type": "chips",
           "kicker": "Shipped",
           "items": [
-            "BrandBook",
-            "Slide & eLearning template system",
-            "Motion graphics kit",
-            "GenAI video pipeline",
-            "Program launch toolkits",
-            "Icon & data-viz library",
-            "Regional rollout guidelines"
+            "Brand strategy & positioning",
+            "Brand archetype",
+            "Brand persona",
+            "Purpose, vision & mission",
+            "Brand values",
+            "Visual identity",
+            "Wordmark & symbol",
+            "Colour system",
+            "Typography system",
+            "Brand guidelines",
+            "Environmental branding",
+            "Physical brand activation",
+            "Global brand application system"
           ]
         },
         {
@@ -248,11 +260,11 @@
           "rows": [
             {
               "label": "Client",
-              "value": "Fortune 500 CPG Leader, Global Learning & Development"
+              "value": "Nouryon"
             },
             {
               "label": "Studio",
-              "value": "TheBrandOps, Strategy, Identity, Motion, Template Systems"
+              "value": "BrandOps"
             },
             {
               "label": "Lead",
