@@ -281,21 +281,23 @@
     {
       "slug": "skyline-residences-rebrand",
       "num": "02",
-      "tag": "REAL ESTATE",
-      "industry": "Real Estate & Construction",
-      "title": "Selling flats before the hoarding went up.",
-      "summary": "A mid-size developer with genuinely premium construction was being priced like everyone else, because their brand looked like everyone else. A full PRISM rebrand repositioned the project as the obvious premium choice in its micro-market, before a single hoarding went up.",
-      "client": "Premium Residential Developer, Navi Mumbai",
-      "studio": "TheBrandOps",
+      "tag": "JEWELLERY",
+      "industry": "Jewellery & Luxury Retail",
+      "title": "A quieter kind of luxury.",
+      "summary": "The Bare Studio is a fine jewellery brand built around authenticity, simplicity, and timeless self-expression. Inspired by nature and the beauty of understated details, the brand celebrates jewellery not as something to be seen, but as something to be felt. The opportunity was to create an identity that feels considered yet effortless balancing the warmth of handcrafted objects with the confidence of a contemporary luxury brand. A visual world shaped by earthy tones, thoughtful typography, and a distinctive symbol, designed to make everyday jewellery feel personal, meaningful, and enduring.",
+      "client": "The Bare Studio",
+      "studio": "BrandOps",
       "year": "2025",
       "timeline": "8 weeks",
       "disciplines": [
-        "Research",
-        "Strategy",
+        "Brand Strategy",
+        "Brand Positioning",
+        "Logo Design",
         "Visual Identity",
-        "Print & Signage",
-        "Web",
-        "Campaign"
+        "Typography",
+        "Colour System",
+        "Packaging",
+        "Social Media Art Direction"
       ],
       "image": "/work/real-estate.jpg",
       "imageAlt": "Modern residential apartment building exterior",
@@ -316,148 +318,169 @@
         {
           "type": "text",
           "kicker": "Background & Context",
-          "title": "A premium product wearing a commodity costume.",
+          "title": "Luxury doesn't always need to be loud.",
           "paragraphs": [
-            "The developer's build quality, amenities, and location genuinely beat the competing projects on the same stretch of highway. Buyers who visited the sample flat said so themselves.",
-            "But their brochure, site branding, and social presence looked identical to every other launch in the market: the same render-heavy hoardings, the same amenity checklists, the same shouting typography. Channel partners led every conversation with discounts. Buyers negotiated hard, because nothing signaled that this project deserved a premium.",
-            "The flagship residential tower launch was 10 weeks away. The brand had to change before the market formed its first impression, because in real estate, the first impression is the price anchor."
+            "In a category often defined by statement pieces, visual excess, and occasion-led styling, The Bare Studio takes a more considered approach.",
+            "The brand is rooted in the belief that jewellery can be deeply personal without being elaborate. It can hold a memory, reflect an identity, or become part of the everyday.",
+            "This called for a brand world that felt intimate, tactile, and timeless one that could communicate quality through restraint rather than excess."
           ]
         },
         {
           "type": "list",
           "kicker": "The Audience",
-          "title": "Before defining the brand, we defined the buyer.",
-          "intro": "The core buyer for this project:",
+          "title": "Before designing the identity, we understood what the jewellery should mean.",
+          "intro": "The core audience for The Bare Studio:",
           "items": [
-            "Upgrading from a 1–2 BHK within the same micro-market, they know every competing project",
-            "Researches on Instagram and property portals weeks before ever calling a number",
-            "Buys on trust signals: who else is buying, how the developer presents itself, how finished the details feel",
-            "Will pay a premium for certainty, but punishes anything that smells like over-promising"
+            "Values understated elegance over loud statements, choosing pieces that feel personal rather than trend-driven",
+            "Looks for versatile jewellery that transitions naturally from everyday routines to meaningful occasions",
+            "Connects with brands through visual storytelling, thoughtful packaging, and the small details that signal quality",
+            "Seeks pieces that reflect individuality, personal milestones, and a sense of quiet confidence"
           ],
-          "outro": "This buyer doesn't compare amenities line by line. They decide in seconds which project 'feels' more trustworthy, then rationalize with the checklist. That instinct is where the brand had to win."
+          "outro": "This audience isn't simply buying jewellery to accessorise. They're choosing pieces that become part of their everyday stories. The brand needed to make that connection feel authentic through simplicity, thoughtful design, and a visual identity that lets meaning take centre stage."
+        },
+        {
+          "type": "text",
+          "kicker": "The Challenge",
+          "title": "How do you make simplicity feel distinctive?",
+          "paragraphs": [
+            "The challenge was to create a jewellery identity that felt premium without becoming distant, minimal without feeling empty, and expressive without relying on visual excess.",
+            "The brand needed to:",
+            "Establish a recognisable identity in a visually crowded category.",
+            "Communicate understated luxury through simple, deliberate design.",
+            "Build an emotional connection between jewellery and personal identity.",
+            "Create a consistent visual language across packaging, digital touchpoints, and product imagery."
+          ]
         },
         {
           "type": "highlight",
           "label": "The challenge in one line",
-          "text": "How do you make a project command a premium per square foot, before construction is even visible from the road?"
+          "text": "How do you make understated jewellery feel distinctive, premium, and meaningful in a crowded market without relying on visual excess?"
         },
         {
           "type": "text",
           "kicker": "Strategy Lens",
-          "title": "Perceived value is designed, not discounted.",
+          "title": "Jewellery, in its barest form.",
           "paragraphs": [
-            "We audited 14 competing launches within the micro-market. Every single one shouted: exclamation-mark headlines, ten amenities per hoarding, gold-gradient everything. When everyone shouts, the confident whisper wins.",
-            "The strategy: own 'quiet luxury', the one position nobody in the market occupied. Craft over claims. Calm over noise. Long-term value over launch-weekend urgency.",
-            "Positioning the project this way did something subtle and powerful: it moved the buyer's comparison frame from 'price per square foot' to 'which of these will I be proud to live in?', a question our client won by default."
+            "The Bare Studio is built around the idea that the most meaningful things do not need to demand attention.",
+            "The identity expresses this through a balance of natural forms, restrained details, warm materials, and considered composition. Every element is designed to feel intentional, allowing the jewellery, the person wearing it, and the meaning behind it to take centre stage.",
+            "Core brand principles",
+            "Simplicity: removing the unnecessary.",
+            "Beauty: finding meaning in the details.",
+            "Essence: expressing what matters most."
           ]
         },
         {
           "type": "pillars",
-          "kicker": "How the brand shows up",
-          "title": "Four codes of quiet luxury.",
+          "kicker": "Brand Archetype",
+          "title": "The Innocent, guided by the Sage.",
           "items": [
             {
-              "title": "Craft Over Claims",
-              "desc": "Show the shadow gap, the stone detail, the door hardware. Proof photographed beautifully beats adjectives printed loudly."
+              "title": "The Innocent",
+              "desc": "The Innocent brings simplicity, optimism, purity, and an appreciation for life's quieter pleasures. It informs the brand's lightness, natural warmth, and uncomplicated visual language."
             },
             {
-              "title": "Calm Confidence",
-              "desc": "Generous white space, restrained serif typography, one message per surface. The brand never raises its voice, because it doesn't need to."
-            },
-            {
-              "title": "Neighbourhood Pride",
-              "desc": "Rooted in Vashi, not floating in render-land. Real streets, real light, real distances, the brand sells a life, not a skyline."
-            },
-            {
-              "title": "Proof in Detail",
-              "desc": "Every touchpoint finishes like the building: aligned, considered, premium in the hand. The brochure paper stock is an argument for the flat."
+              "title": "The Sage",
+              "desc": "The Sage brings thoughtfulness, wisdom, and intention. It informs the brand's considered design choices, clarity, and enduring character."
             }
           ]
         },
         {
           "type": "steps",
-          "kicker": "The build",
-          "title": "Eight weeks, one system.",
+          "kicker": "Brand Persona",
+          "title": "Soft in expression. Certain in character.",
           "items": [
             {
-              "phase": "Positioning",
-              "title": "Map the market, claim the gap.",
-              "desc": "Competitor audit of 14 launches, buyer interviews at competing sample flats, channel-partner conversations. Output: a positioning statement the sales team could recite, and price against."
+              "phase": "Minimal",
+              "title": "Considered, Never Excessive",
+              "desc": " "
             },
             {
-              "phase": "Identity",
-              "title": "Design an identity that raises the price.",
-              "desc": "A restrained serif wordmark, architectural photography direction, an editorial layout system, and a materials palette, designed to feel like a property magazine, not a pamphlet."
+              "phase": "Timeless",
+              "title": "Designed to move beyond passing trends.",
+              "desc": " "
             },
             {
-              "phase": "Systems",
-              "title": "Build every buyer touchpoint as one kit.",
-              "desc": "Brochure, walkthrough film, hoarding and site signage, sample-flat wayfinding, channel-partner kit, landing page, and WhatsApp collateral, one consistent system handed to sales on day one."
+              "phase": "Grounded",
+              "title": "Connected to nature and tactile materials.",
+              "desc": " "
             },
             {
-              "phase": "Momentum",
-              "title": "Launch the waitlist before the hoarding.",
-              "desc": "A teaser campaign across Instagram and channel partners drove site-visit bookings from a waitlist before public launch, letting sales anchor pricing high from the first conversation."
+              "phase": "Intimate",
+              "title": "Personal rather than performative.",
+              "desc": " "
+            },
+            {
+              "phase": "Intentional",
+              "title": "Every detail has a reason to exist.",
+              "desc": " "
             }
           ]
         },
         {
           "type": "system",
-          "kicker": "Visual Identity & Brand System",
-          "title": "The parts of quiet luxury.",
+          "kicker": "Visual Identity",
+          "title": "Quietly distinctive by design.",
           "items": [
             {
-              "name": "Wordmark & Monogram",
-              "desc": "A high-contrast serif wordmark with a drawn monogram for signage and embossing, engineered to look expensive at hoarding scale and letterhead scale alike."
-            },
-            {
-              "name": "Colour Palette",
-              "desc": "Deep indigo, warm ivory, and stone grey, with a single metallic accent reserved for print finishing, restraint as a status signal."
+              "name": "Logo & Symbol",
+              "desc": "A refined serif wordmark paired with a botanical emblem inspired by a tulip enclosed within an arch."
             },
             {
               "name": "Typography",
-              "desc": "An editorial serif for headlines and a quiet grotesque for information, the pairing of a magazine, not a mass mailer."
+              "desc": "Cinzel Display for elegant headlines and brand statements, paired with Montserrat for clean, readable supporting text."
+            },
+            {
+              "name": "Colour Palette",
+              "desc": "Earthy browns, warm gold, soft ivory, terracotta, and muted neutrals."
+            },
+            {
+              "name": "Design Language",
+              "desc": "Minimal compositions, balanced proportions, generous whitespace, and understated detailing."
+            },
+            {
+              "name": "Material & Texture",
+              "desc": "Textured paper, natural fabrics, tactile finishes, and subtle metallic accents."
             },
             {
               "name": "Photography Direction",
-              "desc": "Natural light, human scale, material close-ups. No fish-eye renders, no saturated skies, believability is the luxury."
+              "desc": "Warm natural lighting, organic settings, close-up jewellery details, and intimate lifestyle moments."
             },
             {
-              "name": "Layout System",
-              "desc": "A strict editorial grid across brochure, hoarding, and web: one image, one line, one message per surface."
+              "name": "Packaging System",
+              "desc": "Minimal jewellery boxes, fabric pouches, and branded seals that express understated luxury."
             },
             {
-              "name": "Signage & Environment",
-              "desc": "Site hoarding, sample-flat wayfinding, and sales-lounge graphics that carry the same calm through the physical journey."
+              "name": "Digital Identity",
+              "desc": "Consistent social media layouts combining editorial typography, product imagery, and brand-led messaging."
             }
           ]
         },
         {
           "type": "gallery",
           "kicker": "Design in application",
-          "title": "From print to plot.",
-          "intro": "The system across the buyer journey, collateral, environment, and campaign. Click any image to expand.",
+          "title": "From identity to everyday ritual.",
+          "intro": "A considered visual system brought to life through packaging, product imagery, and digital touchpoints. Every detail reflects the brand’s philosophy of understated luxury.",
           "columns": 2,
           "images": [
             {
               "src": "/work/real-estate/gallery-1.jpg",
-              "alt": "Premium sales brochure set",
-              "caption": "The brochure, paper stock chosen to make the first touch feel like the flat"
+              "alt": "The Bare Studio logo and brand identity",
+              "caption": "The signature wordmark and botanical symbol establish a distinctive, timeless identity."
             },
             {
               "src": "/work/real-estate/gallery-2.jpg",
-              "alt": "Entrance signage at dusk",
-              "caption": "Entrance and lobby signage carrying the identity into the built environment"
+              "alt": "The Bare Studio jewellery packaging",
+              "caption": "Tactile materials, warm neutrals, and minimal branding turn packaging into a considered experience."
             },
             {
               "src": "/work/real-estate/gallery-3.jpg",
-              "alt": "Highway hoarding at golden hour",
-              "caption": "One image, one line, the hoarding that whispered while the market shouted"
+              "alt": "The Bare Studio jewellery lifestyle photography",
+              "caption": "Soft lighting and intimate details capture the personal nature of everyday jewellery."
             },
             {
-              "src": "/work/real-estate.jpg",
-              "alt": "The tower facade",
-              "caption": "The product the brand finally matched"
+              "src": "/work/real-estate/gallery-3.jpg",
+              "alt": "The Bare Studio social media brand applications",
+              "caption": "A cohesive digital language brings together product storytelling, editorial typography, and understated elegance."
             }
           ]
         },
@@ -488,15 +511,16 @@
           "type": "chips",
           "kicker": "Shipped",
           "items": [
-            "Brand strategy & positioning",
-            "Visual identity",
-            "Project brochure",
-            "Walkthrough film",
-            "Hoarding & site signage",
-            "Sample-flat wayfinding",
-            "Landing page",
-            "Channel partner kit",
-            "WhatsApp collateral"
+            "Brand positioning and essence",
+            "Brand personality and archetype",
+            "Logo and symbol system",
+            "Logo construction and variations",
+            "Colour palette",
+            "Typography system",
+            "Visual identity guidelines",
+            "Packaging direction",
+            "Product and lifestyle art direction",
+            "Social media visual direction"
           ]
         },
         {
@@ -504,11 +528,11 @@
           "rows": [
             {
               "label": "Client",
-              "value": "Premium Residential Developer, Navi Mumbai"
+              "value": "The Bare Studio"
             },
             {
               "label": "Studio",
-              "value": "TheBrandOps, Strategy, Identity, Application Design"
+              "value": "BrandOps"
             },
             {
               "label": "Lead",
@@ -521,21 +545,19 @@
     {
       "slug": "d2c-listing-conversion",
       "num": "03",
-      "tag": "ECOMMERCE / D2C",
-      "industry": "Ecommerce & D2C",
-      "title": "The product was great. The listing was killing it.",
-      "summary": "A fast-growing Ayurvedic wellness brand had a product customers loved and listings that buried it. We rebuilt the packaging, listing imagery, and A+ content as one conversion system, and let the numbers do the talking.",
-      "client": "Ayurvedic Wellness D2C Brand",
-      "studio": "TheBrandOps",
+      "tag": "REAL ESTATE",
+      "industry": "Real Estate & Construction",
+      "title": "Giving a property group a clearer front door.",
+      "summary": "Vardhaman Group’s website brings its history, upcoming developments and wider portfolio into one place. Letterheads for Vardhaman Spaces and Vardhaman Realty carry the group’s identity beyond the screen, making it recognisable in everyday correspondence.",
+      "client": "Vardhaman Group",
+      "studio": "BrandOps",
       "year": "2025",
       "timeline": "6 weeks",
       "disciplines": [
-        "Research",
-        "Packaging",
-        "Listing Design",
-        "A+ Content",
-        "Photography Direction",
-        "Ad Creative"
+        "Website Design",
+        "Information Architecture",
+        "Brand Application",
+        "Stationery"
       ],
       "image": "/work/d2c.jpg",
       "imageAlt": "Minimal wellness product packaging photography",
@@ -556,138 +578,171 @@
         {
           "type": "text",
           "kicker": "Background & Context",
-          "title": "Traffic without trust.",
+          "title": "More than a collection of buildings.",
           "paragraphs": [
-            "The founders had built something real: honest formulations, loyal repeat customers, five-star reviews from everyone who actually tried the product. Growth capital was going into ads, and the ads were working, clicks were cheap and plentiful.",
-            "Then the clicks landed on the listing. Inconsistent packshots. Text-heavy infographics unreadable on a phone. Packaging that disappeared next to bigger competitors on the search results page. Conversion sat well below category benchmarks, which meant every rupee of ad spend was working twice as hard as it should.",
-            "The founders were about to cut ad budgets. The real problem was the brand at the point of decision."
+            "Vardhaman Group’s About page traces its founding to 1972 and describes residential and commercial work across Mumbai and nearby locations. Its website has to hold several parts of that story at once: what the group is building next, the projects behind its name, and the people a visitor can contact.",
+            "The work brings those parts together through a project-led website. Two letterhead applications—for Vardhaman Spaces and Vardhaman Realty extend the group identity into print without asking either format to do the other’s job."
           ]
         },
         {
           "type": "text",
-          "kicker": "The Research",
-          "title": "We audited the category shelf first.",
+          "kicker": "The Audience",
+          "title": "Four questions before an enquiry.",
           "paragraphs": [
-            "Before touching a pixel, we screenshotted the top 30 competing listings across marketplaces and mapped their visual codes: what colors dominate the search page, what claims lead, what the thumbnail war actually looks like at 2 inches wide.",
-            "The pattern: everyone decorates, nobody proves. Leaf motifs, gold flourishes, Sanskrit typography, and claims floating without evidence. The gap was a brand that looks calm and clinical-adjacent: proof-forward, legible at thumbnail size, honest in tone.",
-            "That audit became the design brief. We would win the thumbnail with clarity, and win the cart with proof."
+            "For someone encountering the group for the first time, the questions are practical:",
+            "Who is behind the development?",
+            "What projects are coming next?",
+            "What work can I look at today?",
+            "How do I get in touch?",
+            "The site gives each question a destination. Visitors can explore a project without first having to understand the group’s structure."
           ]
         },
         {
           "type": "highlight",
           "label": "The challenge in one line",
-          "text": "How do you turn a 2-inch thumbnail on a crowded search page into the most trustworthy thing a buyer sees that day?"
+          "text": "How do you make a multi-project developer easy to understand and recognisable from website to letterhead?"
         },
         {
           "type": "text",
           "kicker": "Strategy Lens",
-          "title": "Win the thumbnail, win the cart.",
+          "title": "Lead with projects. Keep the group close.",
           "paragraphs": [
-            "Ecommerce branding isn't brand-book branding. The 'logo on a mood board' matters less than the exact sequence of images a thumb scrolls through between doubt and checkout.",
-            "So we treated the listing itself as the brand's flagship store: seven frames per SKU, each with one job, hook, proof, ritual, ingredients, comparison, social proof, promise. The packaging was redesigned to serve frame one; the A+ content was designed to close frame seven.",
-            "One system, engineered around a single behavioural truth: buyers don't read listings, they scroll them. Every frame had to work alone, in order, on a phone."
+            "The homepage opens with a cityscape and a message about the human meaning of home. From there, the navigation puts Upcoming Projects, the company story, the broader portfolio and Contact within easy reach.",
+            "That structure lets interest in a building lead naturally to the group behind it. Project imagery does the inviting; the About page supplies history; the portfolio shows the breadth of work; and the Contact page offers a next step.",
+            "Across digital and print, the architectural group mark provides continuity. The website uses charcoal, white and green for clear navigation. The letterheads use navy and gold for a more formal setting."
           ]
         },
         {
           "type": "pillars",
-          "kicker": "The listing stack",
-          "title": "Seven frames, one job each.",
-          "intro": "Every SKU shipped with the same conversion sequence, customized in content, identical in logic.",
+          "kicker": "HOW THE BRAND SHOWS UP",
+          "title": "One group, expressed for each setting.",
+          "intro": " ",
           "items": [
             {
-              "title": "Frame 1, The Hook",
-              "desc": "Pack-forward hero with the single strongest claim. Designed to be legible and differentiated at thumbnail size in search results."
+              "title": "A recognisable signature",
+              "desc": "The building-inspired Vardhaman Group mark anchors the website header and appears on both letterhead applications."
             },
             {
-              "title": "Frames 2–3, The Proof",
-              "desc": "Clinical-adjacent evidence: ingredient percentages, sourcing, certifications, designed like lab notes, not decoration."
+              "title": "Projects in view",
+              "desc": "Three upcoming developments are presented together, while a separate Projects page gives the wider portfolio its own space."
             },
             {
-              "title": "Frames 4–5, The Ritual",
-              "desc": "How it fits a real morning: dosage, timing, taste. Lifestyle photography that looks like the buyer's own kitchen, not a stock resort."
+              "title": "Clear digital signposts",
+              "desc": "A dark header, green navigation accents, prominent headings and location-labelled project cards help visitors find their way."
             },
             {
-              "title": "Frames 6–7, The Close",
-              "desc": "Review wall with real customer language, then the promise frame: guarantee, delivery, and the reorder ritual."
+              "title": "Print with room to work",
+              "desc": "The Vardhaman Spaces and Vardhaman Realty sheets retain generous writing space while keeping the group identity and contact details visible."
             }
           ]
         },
         {
           "type": "steps",
           "kicker": "The build",
-          "title": "Six weeks from audit to relaunch.",
+          "title": "A place for every part of the story.",
           "items": [
             {
-              "phase": "Research",
-              "title": "Category shelf audit.",
-              "desc": "Top 30 listings mapped for visual codes, claim hierarchies, and thumbnail legibility. Deliberately designed against the category: calm where they shout, proof where they decorate."
+              "phase": "Structure",
+              "title": "Five destinations, one straightforward journey.",
+              "desc": "Home, Upcoming Projects, About, Projects and Contact form the website’s main navigation."
             },
             {
-              "phase": "Identity",
-              "title": "Packaging built for a 2-inch thumbnail.",
-              "desc": "Refreshed pack architecture with a bold ingredient mark and high-contrast hierarchy, the pack itself became the best-performing pixel in the hero frame."
+              "phase": "Projects",
+              "title": "Separate what’s next from what’s already there.",
+              "desc": "The Upcoming Projects page presents three building visuals. The Projects page shows a broader selection, including entries labelled Khopoli and Vikhroli."
             },
             {
-              "phase": "Systems",
-              "title": "The 7-frame listing system.",
-              "desc": "Photography direction, infographic templates, A+ content modules, and a brand storefront, one system applied across 12 SKUs so the whole catalog converts consistently."
+              "phase": "Story & Contact",
+              "title": "Connect the work to the group.",
+              "desc": "The About page pairs company information with city imagery. A dedicated Contact page provides a map and a visible chat entry point."
             },
             {
-              "phase": "Momentum",
-              "title": "Test, read, iterate.",
-              "desc": "A/B tests on hero frames and claim order across two hero SKUs. Winning variants rolled out catalog-wide and repurposed into ad creative, closing the loop between listing and ads."
+              "phase": "Stationery",
+              "title": "Carry the name beyond the browser.",
+              "desc": "Letterheads for Vardhaman Spaces and Vardhaman Realty apply the group mark within distinct, practical document layouts."
+            }
+          ]
+        },
+        {
+          "type": "system",
+          "kicker": "VISUAL IDENTITY & BRAND SYSTEM",
+          "title": "The details that connect screen and paper.",
+          "items": [
+            {
+              "name": "Group Mark",
+              "desc": "An architectural emblem and Vardhaman Group wordmark provide the common signature across the applications shown."
+            },
+            {
+              "name": "Digital Palette",
+              "desc": "Charcoal navigation, white content areas and green highlights give the website a clear visual hierarchy."
+            },
+            {
+              "name": "Print Palette",
+              "desc": "Gold branding and navy information blocks bring a more formal character to the letterheads."
+            },
+            {
+              "name": "Typography",
+              "desc": "A statement-led homepage contrasts with direct, prominent page headings and compact navigation labels."
+            },
+            {
+              "name": "Project Imagery",
+              "desc": "A cityscape introduces the group; building visuals and location-labelled cards bring attention back to its work."
+            },
+            {
+              "name": "Document Layout",
+              "desc": "Both letterheads reserve a large, open writing area, with brand and contact information arranged around it."
             }
           ]
         },
         {
           "type": "gallery",
           "kicker": "Design in application",
-          "title": "From pack to page.",
-          "intro": "Packaging, listing frames, and the production behind them. Click any image to expand.",
+          "title": "From first visit to formal correspondence.",
+          "intro": "The website and stationery shown in the supplied references.",
           "columns": 2,
           "images": [
             {
               "src": "/work/d2c/gallery-1.jpg",
-              "alt": "Packaging flat lay with botanical ingredients",
-              "caption": "The refreshed pack architecture, ingredient-forward, honest, legible"
+              "alt": "Vardhaman Group homepage on a laptop",
+              "caption": "A city-led introduction with the group identity and main navigation in view"
             },
             {
               "src": "/work/d2c/gallery-2.jpg",
-              "alt": "Listing frame on a phone screen",
-              "caption": "Frame one in its natural habitat: a thumb-width of attention"
+              "alt": "Upcoming Projects page",
+              "caption": "Three development visuals presented together for quick browsing"
             },
             {
               "src": "/work/d2c/gallery-3.jpg",
-              "alt": "Product photography studio setup",
-              "caption": "The photography system, repeatable setups so new SKUs launch on-brand"
+              "alt": "About Vardhaman Group page",
+              "caption": "The company story alongside city imagery"
             },
             {
               "src": "/work/d2c.jpg",
-              "alt": "Product line photography",
-              "caption": "The full line, shot as one family"
+              "alt": "Projects page",
+              "caption": "A portfolio grid with location labels, including Khopoli and Vikhroli"
             }
           ]
         },
         {
           "type": "stats",
           "kicker": "Outcome",
-          "title": "Same product. Same traffic. Different brand.",
+          "title": "A connected presence, on screen and on paper.",
           "items": [
             {
-              "value": "+64%",
-              "label": "Listing conversion rate on hero SKUs after relaunch"
+              "value": "5",
+              "label": "Main website sections shown in the references"
             },
             {
-              "value": "2.4×",
-              "label": "Return on ad spend with the same media budget"
+              "value": "3",
+              "label": "Upcoming-project visuals presented together"
             },
             {
-              "value": "−31%",
-              "label": "Cost per acquisition across marketplaces"
+              "value": "2",
+              "label": "Letterhead applications: Vardhaman Spaces and Vardhaman Realty"
             },
             {
-              "value": "12",
-              "label": "SKUs rebuilt on the new listing system"
+              "value": "1",
+              "label": "Group mark carried across digital and print"
             }
           ]
         },
@@ -695,13 +750,13 @@
           "type": "chips",
           "kicker": "Shipped",
           "items": [
-            "Packaging refresh",
-            "7-frame listing system",
-            "A+ / brand store content",
-            "Photography art direction",
-            "Infographic templates",
-            "Ad creative kit",
-            "Brand guidelines"
+            "Vardhaman Group website",
+            "Upcoming Projects page",
+            "About page",
+            "Projects gallery",
+            "Contact page with map",
+            "Vardhaman Spaces letterhead",
+            "Vardhaman Realty letterhead"
           ]
         },
         {
@@ -709,11 +764,11 @@
           "rows": [
             {
               "label": "Client",
-              "value": "Ayurvedic Wellness D2C Brand"
+              "value": "Vardhaman Group"
             },
             {
               "label": "Studio",
-              "value": "TheBrandOps, Research, Packaging, Listing System, Ad Creative"
+              "value": "BrandOps"
             },
             {
               "label": "Lead",
